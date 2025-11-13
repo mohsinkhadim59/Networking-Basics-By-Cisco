@@ -1,22 +1,103 @@
+# Networking Basics
 
-**Goal:** To complete the [Google Cybersecurity Professional Course](https://www.coursera.org/professional-certificates/google-cybersecurity?utm_medium=sem&utm_source=gg&utm_campaign=b2c_apac_google-cybersecurity_google_ftcof_professional-certificates_cx_dr_bau_gg_sem_pr_s2-v2_all_m_hyb_25-08_x&campaignid=22917677655&adgroupid=187828172361&device=c&keyword=google%20cybersecurity%20professional%20certificate&matchtype=p&network=g&devicemodel=&creativeid=770590759360&assetgroupid=&targetid=kwd-2056816363883&extensionid=&placement=&gad_source=1&gad_campaignid=22917677655&gbraid=0AAAAADdKX6bGqlJrVoqL7t2ffErKBQsFU&gclid=Cj0KCQiA5abIBhCaARIsAM3-zFU8uWifYaQGnnxjPbNTCd_NyaLDLKZu9qaXk8LR5EXwDlqXmLJAGRUaAg6CEALw_wcB) including all 9 modules.
+**Course** – Introduction to small‑office / home‑office (SOHO) networking  
+**Audience** – Beginners, home users, IT support staff, and anyone looking to gain a solid foundation in network design, configuration, and troubleshooting.  
+**Duration** – ~6 hrs of guided labs + 2 hrs of self‑study (total ~8 hrs)
 
-![Roadmap Cybersecurity](Images/Roadmap.png)
+---
 
-1. [**Foundations of Cybersecurity**](https://www.coursera.org/learn/foundations-of-cybersecurity/home/week/1) — _(current course)_ Explore the cybersecurity profession, including significant events that led to the development of the cybersecurity field and its continued importance to organizational operations. Learn about entry-level cybersecurity roles and responsibilities. 
-    
-2. [**Play It Safe: Manage Security Risks**](https://www.coursera.org/learn/manage-security-risks/home/week/1) — Identify how cybersecurity professionals use frameworks and controls to protect business operations, and explore common cybersecurity tools.
-    
-3. [**Connect and Protect: Networks and Network Security**](https://www.coursera.org/learn/networks-and-network-security/home/week/1) — Gain an understanding of network-level vulnerabilities and how to secure networks.
-    
-4. [**Tools of the Trade: Linux and SQL**](https://www.coursera.org/learn/linux-and-sql/home/week/1) — Explore foundational computing skills, including communicating with the Linux operating system through the command line and querying databases with SQL.
-    
-5. [**Assets, Threats, and Vulnerabilities**](https://www.coursera.org/learn/assets-threats-and-vulnerabilities/home/week/1) — Learn about the importance of security controls and developing a threat actor mindset to protect and defend an organization’s assets from various threats, risks, and vulnerabilities.
-    
-6. [**Sound the Alarm: Detection and Response**](https://www.coursera.org/learn/detection-and-response/home/week/1) — Understand the incident response lifecycle and practice using tools to detect and respond to cybersecurity incidents.
-    
-7. [**Automate Cybersecurity Tasks with Python**](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python/home/week/1) — Explore the Python programming language and write code to automate cybersecurity tasks.
-    
-8. [**Put It to Work: Prepare for Cybersecurity Jobs**](https://www.coursera.org/learn/prepare-for-cybersecurity-jobs/home/week/1) — Learn about incident classification, escalation, and ways to communicate with stakeholders. This course closes out the program with tips on how to engage with the cybersecurity community and an introduction to AI in cybersecurity.
-    
-9. [**Accelerate Your Job Search with AI**](https://www.coursera.org/learn/accelerate-your-job-search-with-ai/home/module/1) — Gain practical job search strategies and learn how to leverage AI tools (like Gemini and NotebookLM) to uncover your most valuable skills, create a job search plan, manage your applications, and practice for interviews as you navigate your path to your next role.
+## 🎯 Course Purpose
+
+The **Networking Basics** course equips you with the essential concepts and hands‑on skills to:
+
+- **Design** a functional SOHO network.
+- **Configure** wired and wireless devices securely.
+- **Troubleshoot** common connectivity problems using industry‑standard tools.
+- **Prepare** for more advanced networking, security, or cloud certifications.
+
+---
+
+## 📚 What’s Covered
+
+| Topic | Key Learning Points |
+|-------|---------------------|
+| **Fundamentals of Network Communication** | Data flow, OSI model, protocols, packet structure |
+| **Network Types & Components** | LAN/WAN, routers, switches, hubs, firewalls, Wi‑Fi APs |
+| **Wireless Configuration** | SSID, WPA2/WPA3, mobile device setup |
+| **Network Media & Ethernet** | Copper vs fiber, RJ45, CAT‑5e/6, Ethernet frames |
+| **IP Addressing (IPv4 & IPv6)** | Subnetting, CIDR, address classes, global vs link‑local |
+| **Dynamic Host Configuration Protocol (DHCP)** | Server configuration, lease management |
+| **Routing Basics** | Static routing, default gateways, inter‑network traffic |
+| **Address Resolution Protocol (ARP)** | IP↔MAC mapping, ARP cache |
+| **LAN Design & Connectivity** | Star topology, cabling, NIC configuration |
+| **Internet Access & DNS** | ISP connection, domain name resolution, application‑layer protocols |
+| **Troubleshooting Tools** | Ping, traceroute, arp, Wireshark, network analyzers |
+
+---
+
+## ✅ Learning Outcomes
+
+After completing this course you will be able to:
+
+1. Explain how data moves through a network.  
+2. Identify and differentiate between network devices and media.  
+3. Securely configure mobile devices for Wi‑Fi.  
+4. Set up an integrated wireless router for safe Internet access.  
+5. Apply IPv4/IPv6 addressing and subnetting.  
+6. Deploy and manage a DHCP server.  
+7. Configure basic static routes and understand router function.  
+8. Use ARP to troubleshoot local‑network communication.  
+9. Build a fully‑connected LAN that meets user requirements.  
+10. Resolve connectivity issues with ping, traceroute, and packet captures.
+
+---
+
+## 📑 Prerequisites
+
+- Basic computer literacy (file navigation, command prompt / terminal usage).  
+- **Cisco Packet Tracer** – If you haven’t used it before, [take this short course](https://www.netacad.com/courses/getting-started-cisco-packet-tracer?courseLang=en-US).  
+- Internet connection for downloading labs and resources.
+
+---
+
+## 📎 Learning Links
+
+- **Cisco Networking Basics** – [NetAcad Curriculum](https://www.netacad.com/launch?id=f393c38f-b410-4d2b-8275-70e144273519&tab=curriculum&view=ae8638aa-428f-5d03-b275-742d5f1b805c)
+- **Cisco Packet Tracer** – [Download & Get Started](https://www.netacad.com/courses/getting-started-cisco-packet-tracer?courseLang=en-US)
+
+> **[!NOTE]**  
+> If you’re new to Cisco Packet Tracer, complete the introductory short course first. It will help you get comfortable with the interface and basic simulation commands.
+
+---
+
+## 📌 How to Use This Repository
+
+1. Clone the repo to your local machine.  
+2. Open the `labs/` folder – each lab contains a `.pkt` file (Packet Tracer project) and a README with step‑by‑step instructions.  
+3. Run the labs sequentially; the order follows the course outline above.  
+4. Keep the `solutions/` folder closed – try to solve each lab on your own first.  
+5. Once you’re done, submit the lab reports or answers in the `answers/` folder for review.
+
+---
+
+## 📖 Additional Resources
+
+| Topic | Resource |
+|-------|----------|
+| OSI Model | Cisco NetAcad – “Network Fundamentals” |
+| Subnetting Practice | [Subnetting.com](https://www.subnetting.com/) |
+| Wireshark Basics | Official Wireshark Tutorial |
+| IPv6 Transition | RFC 4193 – Unique Local Addresses |
+
+---
+
+## 🚀 Next Steps
+
+- Enroll in **Cisco CCNA** or **CompTIA Network+** to deepen your knowledge.  
+- Practice with real hardware (routers, switches, Wi‑Fi APs).  
+- Explore advanced topics: VLANs, ACLs, NAT, VPNs, and security best practices.
+
+---
+
+Happy learning, and may your packets flow smoothly! 🚀
+
