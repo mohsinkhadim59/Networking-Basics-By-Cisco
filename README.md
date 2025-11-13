@@ -85,9 +85,6 @@ After completing this course you will be able to:
 | Topic | Resource |
 |-------|----------|
 | OSI Model | Cisco NetAcad – “Network Fundamentals” |
-| Subnetting Practice | [Subnetting.com](https://www.subnetting.com/) |
-| Wireshark Basics | Official Wireshark Tutorial |
-| IPv6 Transition | RFC 4193 – Unique Local Addresses |
 
 ---
 ## System Requirements
