@@ -12,3 +12,4 @@
 	- **Simulation mode** allows us to control the time as well as add packets and watch them travel across the network
 - On bottom end to the left one will be able to see **network components** such as routers, switches, PCs and other devices to be added to the topology and of course the cable to connect those devices.
 - And lastly there is status bar on the bottom right to check the status of different packets travelling across the network.
+![UI of Cisco Packet Tracer](/Images/UI.png)

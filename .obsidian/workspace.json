@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "RoadMap/Daily-Notes/Day-2.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -61,8 +61,7 @@
               "title": "Cisco Packet Tracer"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "cf1da196370b66d2",
@@ -352,16 +351,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8d1fc3a3b6e57ef2",
+  "active": "b28df940ab6ea8a1",
   "lastOpenFiles": [
-    "Cisco Packet Tracer/Cisco Packet Tracer.md",
-    "Cisco Packet Tracer/User Interface of Cisco.md",
-    "RoadMap/Phase-1/Phase-0.md",
-    "Cisco Packet Tracer",
-    "README.md",
+    "Images/UI.png",
     "RoadMap/Daily-Notes/Day-2.md",
-    "Table of Contents.base",
+    "Cisco Packet Tracer/User Interface of Cisco.md",
     "RoadMap/Daily-Notes/Day-1.md",
+    "RoadMap/Phase-1/Phase-0.md",
+    "README.md",
+    "Images/User Interface.png",
+    "Images/Screenshot 2025-11-13 185649.png",
+    "Images",
+    "New folder",
+    "Cisco Packet Tracer/Cisco Packet Tracer.md",
+    "Cisco Packet Tracer",
+    "Table of Contents.base",
     "Day-05 - Security Frameworks Controls.md",
     "RoadMap/Phase-1/Week-1.md",
     "Images/LPC.png",
@@ -377,8 +381,6 @@
     "RoadMap/Phase-1/Week-2.md",
     "Images/6XSJVYkRTsirLaWjoKko0A_90d89c72d8714414a6e45aa4b219dff1_S33G003.png",
     "Images/Unconfirmed 560603.crdownload",
-    "Images",
-    "New folder",
     "RoadMap/Cheatsheets/Cheatsheet-Linux.md",
     "RoadMap/Cover/Cover.md",
     "RoadMap/Daily-Notes/Day-22.md",
@@ -394,12 +396,9 @@
     "RoadMap/Daily-Notes/Day-20.md",
     "RoadMap/Daily-Notes/Day-4.md",
     "RoadMap/Daily-Notes/Day-5.md",
-    "RoadMap/Daily-Notes/Day-8.md",
     "RoadMap/Daily-Notes/img.png",
     "RoadMap/Daily-Notes/ROT13_table_with_example.svg.png",
     "Images/me.jpg",
-    "me.jpg",
-    "RoadMap/Cover/me.jpg",
     "RoadMap/Cover"
   ]
 }
