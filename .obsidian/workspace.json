@@ -1,0 +1,363 @@
+{
+  "main": {
+    "id": "2b6ebacc32c85012",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd757e791a3d6f0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88e14ede87f136f2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-ghost",
+              "title": "juggl_view"
+            }
+          },
+          {
+            "id": "5693bfebbf2f2b18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RoadMap/Daily-Notes/Day-2.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day-2"
+            }
+          },
+          {
+            "id": "33795f9152096ced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RoadMap/Phase-1/Phase-0.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phase-0"
+            }
+          },
+          {
+            "id": "3a55a4069ea11473",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5f0d7607f6fa1bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ecb3df4607a0a29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d1fc3a3b6e57ef2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f6e6397ec946fc1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3215fc93dc9f283f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5
+  },
+  "right": {
+    "id": "f7390f919bb25969",
+    "type": "split",
+    "children": [
+      {
+        "id": "819991110b890480",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14c2ce35e0d715b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c4d844da668e1708",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a35525732f4bba7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e1408ce9b1a9aaa5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ddd27f16939bc297",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "e5037be2932c27b2",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "84ec0edc71413bbc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "580d79fb9656ad73",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
+            }
+          },
+          {
+            "id": "cbacacaa43f2038d",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "06c5909b463afa62",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "e11985e8f89f6678",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "63b1f0061f4da333",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "395f07a252bd2cc8",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "4e43ca1c86d784b0",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "juggl:Juggl global graph": false,
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "33795f9152096ced",
+  "lastOpenFiles": [
+    "RoadMap/Daily-Notes/Day-2.md",
+    "RoadMap/Daily-Notes/Day-1.md",
+    "RoadMap/Phase-1/Phase-0.md",
+    "Day-05 - Security Frameworks Controls.md",
+    "RoadMap/Phase-1/Week-1.md",
+    "Images/LPC.png",
+    "Images/banner-info.svg",
+    "Images/banner-info.png",
+    "Images/Unconfirmed 37058.crdownload",
+    "Images/Unconfirmed 72802.crdownload",
+    "RoadMap/Daily-Notes/Day-3.md",
+    "README.md",
+    "Images/Roadmap.png",
+    "RoadMap/Cheatsheets/Cheatsheet-Global.md",
+    "RoadMap/Phase-1/Week-4.md",
+    "Day-01 - Introduction to Cybersecurity.md",
+    "RoadMap/Phase-1/Week-2.md",
+    "Table of Contents.base",
+    "Images/6XSJVYkRTsirLaWjoKko0A_90d89c72d8714414a6e45aa4b219dff1_S33G003.png",
+    "Images/Unconfirmed 560603.crdownload",
+    "Images",
+    "New folder",
+    "RoadMap/Cheatsheets/Cheatsheet-Linux.md",
+    "RoadMap/Cover/Cover.md",
+    "RoadMap/Daily-Notes/Day-22.md",
+    "RoadMap/Phase-1/Week-3.md",
+    "2025-10-23.md",
+    "Untitled 1.base",
+    "Untitled 2.base",
+    "Untitled.canvas",
+    "RoadMap/Daily-Notes/Day-6.md",
+    "RoadMap/Daily-Notes/Day-7.md",
+    "RoadMap/Daily-Notes/Day-18.md",
+    "RoadMap/Daily-Notes/Day-19.md",
+    "RoadMap/Daily-Notes/Day-20.md",
+    "RoadMap/Daily-Notes/Day-4.md",
+    "RoadMap/Daily-Notes/Day-5.md",
+    "RoadMap/Daily-Notes/Day-8.md",
+    "RoadMap/Daily-Notes/Day-9.md",
+    "RoadMap/Cheatsheets/Cheatsheet-Tree.md",
+    "RoadMap/Daily-Notes/img.png",
+    "RoadMap/Daily-Notes/ROT13_table_with_example.svg.png",
+    "Images/me.jpg",
+    "me.jpg",
+    "RoadMap/Cover/me.jpg",
+    "RoadMap/Cover",
+    "RoadMap"
+  ]
+}
