@@ -90,7 +90,8 @@ After completing this course you will be able to:
 | IPv6 Transition | RFC 4193 – Unique Local Addresses |
 
 ---
-
+## System Requirements
+- Computer with either Windows (10, 11), MacOS (12 or newer) or Ubuntu (22.04, 24.04) LTS operating system, amd64(x86-64) CPU, 4 GB of free RAM, 1.4 GB of free disk space
 ## 🚀 Next Steps
 
 - Enroll in **Cisco CCNA** or **CompTIA Network+** to deepen your knowledge.  
