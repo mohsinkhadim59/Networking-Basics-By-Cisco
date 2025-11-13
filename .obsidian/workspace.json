@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88e14ede87f136f2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "juggl_view"
-            }
-          },
-          {
             "id": "5693bfebbf2f2b18",
             "type": "leaf",
             "state": {
@@ -46,21 +34,9 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "3a55a4069ea11473",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -273,12 +249,32 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "4e43ca1c86d784b0",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "a7a6c316dcd366f1",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
               "icon": "ag-node-list",
               "title": "Juggl nodes"
             }
           },
           {
-            "id": "4e43ca1c86d784b0",
+            "id": "bdcb8abcd6677a94",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -312,8 +308,10 @@
   },
   "active": "33795f9152096ced",
   "lastOpenFiles": [
-    "RoadMap/Phase-1/Phase-0.md",
     "RoadMap/Daily-Notes/Day-2.md",
+    "README.md",
+    "Table of Contents.base",
+    "RoadMap/Phase-1/Phase-0.md",
     "RoadMap/Daily-Notes/Day-1.md",
     "Day-05 - Security Frameworks Controls.md",
     "RoadMap/Phase-1/Week-1.md",
@@ -323,13 +321,11 @@
     "Images/Unconfirmed 37058.crdownload",
     "Images/Unconfirmed 72802.crdownload",
     "RoadMap/Daily-Notes/Day-3.md",
-    "README.md",
     "Images/Roadmap.png",
     "RoadMap/Cheatsheets/Cheatsheet-Global.md",
     "RoadMap/Phase-1/Week-4.md",
     "Day-01 - Introduction to Cybersecurity.md",
     "RoadMap/Phase-1/Week-2.md",
-    "Table of Contents.base",
     "Images/6XSJVYkRTsirLaWjoKko0A_90d89c72d8714414a6e45aa4b219dff1_S33G003.png",
     "Images/Unconfirmed 560603.crdownload",
     "Images",
@@ -351,7 +347,6 @@
     "RoadMap/Daily-Notes/Day-5.md",
     "RoadMap/Daily-Notes/Day-8.md",
     "RoadMap/Daily-Notes/Day-9.md",
-    "RoadMap/Cheatsheets/Cheatsheet-Tree.md",
     "RoadMap/Daily-Notes/img.png",
     "RoadMap/Daily-Notes/ROT13_table_with_example.svg.png",
     "Images/me.jpg",

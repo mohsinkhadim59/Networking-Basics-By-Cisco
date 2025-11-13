@@ -65,7 +65,7 @@ After completing this course you will be able to:
 - **Cisco Networking Basics** – [NetAcad Curriculum](https://www.netacad.com/launch?id=f393c38f-b410-4d2b-8275-70e144273519&tab=curriculum&view=ae8638aa-428f-5d03-b275-742d5f1b805c)
 - **Cisco Packet Tracer** – [Download & Get Started](https://www.netacad.com/courses/getting-started-cisco-packet-tracer?courseLang=en-US)
 
-> **[!NOTE]**  
+> [!Notes]  
 > If you’re new to Cisco Packet Tracer, complete the introductory short course first. It will help you get comfortable with the interface and basic simulation commands.
 
 ---
