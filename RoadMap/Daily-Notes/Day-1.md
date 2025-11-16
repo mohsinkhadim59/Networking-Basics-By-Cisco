@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [📓 Module 1](#-module-1)
+  - [Cybersecurity Definitions](#cybersecurity-definitions)
+  - [Benefits of Security](#benefits-of-security)
+  - [Assignment](#assignment)
+  - [Types of skills](#types-of-skills)
+  - [PII Vs SPII](#pii-vs-spii)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 📓 Module 1
 
 **Focus: Foundations of Cybersecurity : Module 1**
