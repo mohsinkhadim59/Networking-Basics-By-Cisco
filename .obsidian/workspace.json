@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cisco Packet Tracer/1.5 Logical and Physical Mode Exploration.md",
-                "mode": "preview",
+                "file": "Cisco Packet Tracer/1.6 Cisco Packet Tracer File Types.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.5 Logical and Physical Mode Exploration"
+              "title": "1.6 Cisco Packet Tracer File Types"
             }
           },
           {
@@ -305,13 +305,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5693bfebbf2f2b18",
+  "active": "8d1fc3a3b6e57ef2",
   "lastOpenFiles": [
-    "README.md",
     "Cisco Packet Tracer/1.5 Logical and Physical Mode Exploration.md",
+    "Cisco Packet Tracer/1.6 Cisco Packet Tracer File Types.md",
+    "Cisco Packet Tracer/1.4 GUI and CLI Configuration.md",
+    "README.md",
     "Images/activity.png",
     "Images/inspectfront.png",
-    "Cisco Packet Tracer/1.4 GUI and CLI Configuration.md",
     "RoadMap/Cheatsheets/Cheatsheet-SSH.md",
     "RoadMap/Cheatsheets/Cheatsheet-Linux.md",
     "RoadMap/Cheatsheets/Cheatsheet-Global.md",
