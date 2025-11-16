@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cisco Packet Tracer/2.3 Create a Simple Network.md",
+                "file": "Cisco Packet Tracer/1.1 Cisco Packet Tracer.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.3 Create a Simple Network"
+              "title": "1.1 Cisco Packet Tracer"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cisco Packet Tracer/2.3 Create a Simple Network.md",
+                "file": "Cisco Packet Tracer/1.1 Cisco Packet Tracer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2.3 Create a Simple Network"
+              "title": "Backlinks for 1.1 Cisco Packet Tracer"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cisco Packet Tracer/2.3 Create a Simple Network.md",
+                "file": "Cisco Packet Tracer/1.1 Cisco Packet Tracer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2.3 Create a Simple Network"
+              "title": "Outgoing links from 1.1 Cisco Packet Tracer"
             }
           },
           {
@@ -310,12 +310,15 @@
   },
   "active": "4fd6104fba004513",
   "lastOpenFiles": [
-    "Cisco Packet Tracer/1.2 User Interface of Cisco.md",
+    "Images/badge1.png",
     "Cisco Packet Tracer/2.3 Create a Simple Network.md",
+    "Images/badge.png",
+    "Images/Unconfirmed 23780.crdownload",
+    "Cisco Packet Tracer/Create a Simple Network.pka~",
+    "Cisco Packet Tracer/1.2 User Interface of Cisco.md",
     "Images/ping.png",
     "Cisco Packet Tracer/1.5 Logical and Physical Mode Exploration.md",
     "Cisco Packet Tracer/Building a Simple Network.pkt~",
-    "Cisco Packet Tracer/Create a Simple Network.pka~",
     "Cisco Packet Tracer/Create a Simple Network.pka",
     "Images/cisco.png",
     "Cisco Packet Tracer/Building a Simple Network.pkt",
@@ -336,7 +339,6 @@
     "Untitled.md",
     "Cisco Packet Tracer/1.1 Cisco Packet Tracer.md",
     "Images/assement.png",
-    "Images/assessment.png",
     "RoadMap/Daily-Notes/Day-1.md",
     "RoadMap/Cheatsheets/Cheatsheet-SSH.md",
     "RoadMap/Cheatsheets/Cheatsheet-Linux.md",
@@ -350,7 +352,6 @@
     "Day-05 - Security Frameworks Controls.md",
     "RoadMap/Phase-1/Week-1.md",
     "Images/Unconfirmed 37058.crdownload",
-    "Images/Unconfirmed 72802.crdownload",
     "RoadMap/Daily-Notes/Day-3.md",
     "RoadMap/Phase-1/Week-4.md",
     "Day-01 - Introduction to Cybersecurity.md",
