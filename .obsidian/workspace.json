@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.5 Logical and Physical Mode Exploration.md",
-                "mode": "source",
+                "file": "Cisco Packet Tracer/1.5 Logical and Physical Mode Exploration.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.5 Logical and Physical Mode Exploration.md",
+                "file": "RoadMap/Daily-Notes/Day-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.5 Logical and Physical Mode Exploration"
+              "title": "Day-1"
             }
           }
         ]
@@ -307,10 +307,15 @@
   },
   "active": "5693bfebbf2f2b18",
   "lastOpenFiles": [
+    "Images/inspectfront.png",
     "Cisco Packet Tracer/1.4 GUI and CLI Configuration.md",
-    "1.5 Logical and Physical Mode Exploration.md",
-    "RoadMap/Phase-1/Phase-0.md",
+    "RoadMap/Cheatsheets/Cheatsheet-SSH.md",
+    "RoadMap/Cheatsheets/Cheatsheet-Linux.md",
+    "RoadMap/Cheatsheets/Cheatsheet-Global.md",
+    "Cisco Packet Tracer/1.5 Logical and Physical Mode Exploration.md",
+    "RoadMap/Daily-Notes/Day-1.md",
     "Cisco Packet Tracer/1.3 Deploying Devices in Cisco.md",
+    "RoadMap/Phase-1/Phase-0.md",
     "1.4.md",
     "RoadMap/Daily-Notes/Day-2.md",
     "Images/wireless2.png",
@@ -327,7 +332,6 @@
     "Images/clitab.png",
     "Images/configtab.png",
     "Images/physicaltab.png",
-    "RoadMap/Daily-Notes/Day-1.md",
     "Images",
     "New folder",
     "Cisco Packet Tracer",
@@ -337,12 +341,10 @@
     "Images/Unconfirmed 37058.crdownload",
     "Images/Unconfirmed 72802.crdownload",
     "RoadMap/Daily-Notes/Day-3.md",
-    "RoadMap/Cheatsheets/Cheatsheet-Global.md",
     "RoadMap/Phase-1/Week-4.md",
     "Day-01 - Introduction to Cybersecurity.md",
     "RoadMap/Phase-1/Week-2.md",
     "Images/Unconfirmed 560603.crdownload",
-    "RoadMap/Cheatsheets/Cheatsheet-Linux.md",
     "RoadMap/Cover/Cover.md",
     "RoadMap/Daily-Notes/Day-22.md",
     "RoadMap/Phase-1/Week-3.md",
@@ -351,8 +353,6 @@
     "Untitled 2.base",
     "Untitled.canvas",
     "RoadMap/Daily-Notes/Day-6.md",
-    "RoadMap/Daily-Notes/Day-7.md",
-    "RoadMap/Daily-Notes/Day-18.md",
     "RoadMap/Cover"
   ]
 }
