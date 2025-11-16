@@ -2,6 +2,8 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+  - [title: "Networking Basics Course – Overview & Learning Outcomes"
+tags: [networking, SOHO, fundamentals, troubleshooting]](#title-networking-basics-course--overview--learning-outcomes%0Atags-networking-soho-fundamentals-troubleshooting)
 - [Networking Basics Course – Overview & Learning Outcomes](#networking-basics-course--overview--learning-outcomes)
   - [Course Purpose](#course-purpose)
   - [Key Topics Covered](#key-topics-covered)
