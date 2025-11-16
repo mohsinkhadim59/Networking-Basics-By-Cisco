@@ -53,13 +53,43 @@ After completing this course you will be able to:
 ---
 
 ## 📑 Prerequisites
-
 - Basic computer literacy (file navigation, command prompt / terminal usage).  
 - **Cisco Packet Tracer** – If you haven’t used it before, [take this short course](https://www.netacad.com/courses/getting-started-cisco-packet-tracer?courseLang=en-US).  
 - Internet connection for downloading labs and resources.
 
 ---
+## 🔧 How to Set Up Your Course in Obsidian
 
+Follow these steps to open the **Networking Basics** course as an Obsidian vault:
+
+1. **Download Obsidian**  
+    Get Obsidian for your platform:  
+    👉 [https://obsidian.md/download](https://obsidian.md/download)
+    
+2. **Clone or Download the Repository**  
+    Option A – **Clone using Git** (recommended):
+    
+    `git clone https://github.com/mohsinkhadim59/Networking-Basics-By-Cisco.git`
+    
+    Option B – **Download ZIP**:
+    
+    - Visit: [https://github.com/mohsinkhadim59/Networking-Basics-By-Cisco.git](https://github.com/mohsinkhadim59/Networking-Basics-By-Cisco.git)
+        
+    - Click **Code → Download ZIP**
+        
+    - Unzip the downloaded file.
+        
+3. **Open the Course in Obsidian**
+    
+    - Launch **Obsidian**
+        
+    - Click **Open folder as vault**
+        
+    - Select the folder:  
+        **Networking-Basics-By-Cisco**
+        
+    - Obsidian will load all course notes, labs, and resources.
+---
 ## 📎 Learning Links
 
 - **Cisco Networking Basics** – [NetAcad Curriculum](https://www.netacad.com/launch?id=f393c38f-b410-4d2b-8275-70e144273519&tab=curriculum&view=ae8638aa-428f-5d03-b275-742d5f1b805c)
