@@ -73,7 +73,7 @@ After completing this course you will be able to:
 ## 📑 Prerequisites
 - Basic computer literacy (file navigation, command prompt / terminal usage).  
 - **Cisco Packet Tracer** – If you haven’t used it before, [take this short course](https://www.netacad.com/courses/getting-started-cisco-packet-tracer?courseLang=en-US).  
-	- You can checkout my notes for the on [Cisco Packet Tracer](1.1%20Cisco%20Packet%20Tracer.md)
+	- You can checkout my notes for the on [Cisco Packet Tracer](https://github.com/mohsinkhadim59/Networking-Basics-By-Cisco/tree/master/Cisco%20Packet%20Tracer)
 - Internet connection for downloading labs and resources.
 
 ---
