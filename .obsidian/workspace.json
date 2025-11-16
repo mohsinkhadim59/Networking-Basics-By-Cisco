@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deploying Devices in Cisco.md",
+                "file": "Cisco Packet Tracer/1.3 Deploying Devices in Cisco.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deploying Devices in Cisco"
+              "title": "1.3 Deploying Devices in Cisco"
             }
           }
         ],
@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cisco Packet Tracer/User Interface of Cisco.md",
+                "file": "Cisco Packet Tracer/1.2 User Interface of Cisco.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "User Interface of Cisco"
+              "title": "1.2 User Interface of Cisco"
             }
           }
         ]
@@ -328,12 +328,12 @@
   },
   "active": "85b012f4a7ec5206",
   "lastOpenFiles": [
-    "Cisco Packet Tracer/User Interface of Cisco.md",
-    "Deploying Devices in Cisco.md",
+    "Cisco Packet Tracer/1.2 User Interface of Cisco.md",
+    "Cisco Packet Tracer/1.3 Deploying Devices in Cisco.md",
+    "Cisco Packet Tracer/1.1 Cisco Packet Tracer.md",
     "Images/connections1.png",
     "Untitled.md",
     "RoadMap/Daily-Notes/Day-2.md",
-    "Cisco Packet Tracer/Cisco Packet Tracer.md",
     "README.md",
     "Images/servicestab.png",
     "Images/desktoptab.png",
