@@ -1,3 +1,19 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [✅ Week-1 Checklist — Foundations + Security Risks](#-week-1-checklist--foundations--security-risks)
+  - [🎯 Weekly Goal](#-weekly-goal)
+  - [[[Day-1]]](#day-1)
+  - [[[Day-2 ]]](#day-2-)
+  - [[[Day-3 ]]](#day-3-)
+  - [[[Day-04 - Threats Vulnerabilities Risks]]](#day-04---threats-vulnerabilities-risks)
+  - [[[Day-05 - Security Frameworks Controls]]](#day-05---security-frameworks-controls)
+  - [[[Day-6 ]]](#day-6-)
+  - [[[Day-7 ]]](#day-7-)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # ✅ Week-1 Checklist — Foundations + Security Risks
 
 ## 🎯 Weekly Goal

@@ -1,3 +1,21 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Networking Basics](#networking-basics)
+  - [🎯 Course Purpose](#-course-purpose)
+  - [📚 What’s Covered](#-whats-covered)
+  - [✅ Learning Outcomes](#-learning-outcomes)
+  - [📑 Prerequisites](#-prerequisites)
+  - [🔧 How to Set Up Your Course in Obsidian](#-how-to-set-up-your-course-in-obsidian)
+  - [📎 Learning Links](#-learning-links)
+  - [📌 How to Use This Repository](#-how-to-use-this-repository)
+  - [📖 Additional Resources](#-additional-resources)
+  - [System Requirements](#system-requirements)
+  - [🚀 Next Steps](#-next-steps)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Networking Basics
 
 **Course** – Introduction to small‑office / home‑office (SOHO) networking  
