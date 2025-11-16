@@ -1,0 +1,19 @@
+/* Auto-center captions inside callouts when the line starts with "Figure" */
+.callout .callout-content em {
+    display: block;
+}
+
+/* Center any italic line beginning with "Figure" */
+.callout .callout-content em::before {
+    content: "";
+}
+
+/* Match lines starting with "Figure" */
+.callout .callout-content em {
+    text-align: center !important;
+}
+
+/* Only apply centering if 'Figure' appears at the start */
+.callout .callout-content em:not(:empty) {
+    text-align: center !important;
+}
