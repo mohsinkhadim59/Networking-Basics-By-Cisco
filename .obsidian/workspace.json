@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cisco Packet Tracer/1.4 GUI and CLI Configuration.md",
+                "file": "Cisco Packet Tracer/1.5 Logical and Physical Mode Exploration.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4 GUI and CLI Configuration"
+              "title": "1.5 Logical and Physical Mode Exploration"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cisco Packet Tracer/1.4 GUI and CLI Configuration.md",
+                "file": "Cisco Packet Tracer/1.5 Logical and Physical Mode Exploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.4 GUI and CLI Configuration"
+              "title": "Backlinks for 1.5 Logical and Physical Mode Exploration"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cisco Packet Tracer/1.4 GUI and CLI Configuration.md",
+                "file": "Cisco Packet Tracer/1.5 Logical and Physical Mode Exploration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1.4 GUI and CLI Configuration"
+              "title": "Outgoing links from 1.5 Logical and Physical Mode Exploration"
             }
           },
           {
@@ -310,6 +310,7 @@
   },
   "active": "4fd6104fba004513",
   "lastOpenFiles": [
+    "Cisco Packet Tracer/1.4 GUI and CLI Configuration.md",
     "Cisco Packet Tracer/1.3 Deploying Devices in Cisco.md",
     "Cisco Packet Tracer/1.5 Logical and Physical Mode Exploration.md",
     "Cisco Packet Tracer/1.6 Cisco Packet Tracer File Types.md",
@@ -318,7 +319,6 @@
     "README.md",
     "Table of Contents.base",
     "Untitled.md",
-    "Cisco Packet Tracer/1.4 GUI and CLI Configuration.md",
     "Cisco Packet Tracer/1.2 User Interface of Cisco.md",
     "Cisco Packet Tracer/1.1 Cisco Packet Tracer.md",
     "Images/assement.png",
