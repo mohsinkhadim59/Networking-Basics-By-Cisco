@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5693bfebbf2f2b18",
+            "id": "ac52ec2c5be2bb44",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "1.3 Data Transmission"
-            }
-          },
-          {
-            "id": "ac52ec2c5be2bb44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cisco Packet Tracer/1.6 Cisco Packet Tracer File Types.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.6 Cisco Packet Tracer File Types"
             }
           }
         ]
@@ -307,19 +293,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5693bfebbf2f2b18",
+  "active": "ac52ec2c5be2bb44",
   "lastOpenFiles": [
+    "www.speedtest.net.md",
+    "Networking Basics/Module 1/1.3 Data Transmission.md",
+    "Networking Basics/Module 1/1.4 Bandwidth and Throughput.md",
+    "Cisco Packet Tracer/1.6 Cisco Packet Tracer File Types.md",
+    "www.speedtest,net.md",
+    "Imagesn/10.png",
+    "Imagesn/9.png",
     "Imagesn/8.png",
     "Imagesn/7.png",
     "Networking Basics/Module 1/1.2 Network Types.md",
-    "Cisco Packet Tracer/1.6 Cisco Packet Tracer File Types.md",
     "Imagesn/5.png",
     "Imagesn/4.png",
     "Imagesn/3.png",
     "Imagesn/Screenshot 2025-11-17 173639.png",
     "Imagesn/2.png",
     "Imagesn/1.png",
-    "Networking Basics/Module 1/1.3 Data Transmission.md",
     "RoadMap/Phase-1/Week-4.md",
     "RoadMap/Phase-1/Week-3.md",
     "RoadMap/Phase-1/Week-2.md",
@@ -336,7 +327,6 @@
     "RoadMap/Daily-Notes",
     "RoadMap",
     "Networking Basics/Module 1/1.1 Learning Objectives.md",
-    "Networking Basics/Module 1/1.4 Bandwidth and Throughput.md",
     "Cisco Packet Tracer/1.5 Logical and Physical Mode Exploration.md",
     "Networking Basics/Module 1/RoadMap/Daily-Notes/Day-4.md",
     "Cheatsheets/Cheatsheet-Linux.md",
@@ -347,13 +337,9 @@
     "RoadMap/Daily-Notes/Day-6.md",
     "RoadMap/Daily-Notes/Day-8.md",
     "RoadMap/Daily-Notes/Day-7.md",
-    "RoadMap/Daily-Notes/Day-9.md",
-    "RoadMap/Daily-Notes/img.png",
     "Networking Basics/Module 1",
     "Networking Basics",
     "Imagesn",
-    "Images/badge1.png",
-    "Images/badge.png",
     "Images/Unconfirmed 23780.crdownload",
     "Untitled.canvas"
   ]
