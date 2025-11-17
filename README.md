@@ -4,7 +4,6 @@
 
 - [Networking Basics](#networking-basics)
   - [🎯 Course Purpose](#-course-purpose)
-  - [📚 What’s Covered](#-whats-covered)
   - [✅ Learning Outcomes](#-learning-outcomes)
   - [📑 Prerequisites](#-prerequisites)
   - [🔧 How to Set Up Your Course in Obsidian](#-how-to-set-up-your-course-in-obsidian)
