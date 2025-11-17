@@ -13,30 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cisco Packet Tracer/1.5 Logical and Physical Mode Exploration.md",
+                "file": "Networking Basics/Module 1/1.3 Data Transmission.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.5 Logical and Physical Mode Exploration"
+              "title": "1.3 Data Transmission"
             }
           },
           {
-            "id": "4fd6104fba004513",
+            "id": "ac52ec2c5be2bb44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RoadMap/Daily-Notes/Day-4.md",
-                "mode": "preview",
+                "file": "Cisco Packet Tracer/1.6 Cisco Packet Tracer File Types.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day-4"
+              "title": "1.6 Cisco Packet Tracer File Types"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -308,54 +307,54 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8d1fc3a3b6e57ef2",
+  "active": "5693bfebbf2f2b18",
   "lastOpenFiles": [
+    "Imagesn/8.png",
+    "Imagesn/7.png",
+    "Networking Basics/Module 1/1.2 Network Types.md",
+    "Cisco Packet Tracer/1.6 Cisco Packet Tracer File Types.md",
+    "Imagesn/5.png",
+    "Imagesn/4.png",
+    "Imagesn/3.png",
+    "Imagesn/Screenshot 2025-11-17 173639.png",
+    "Imagesn/2.png",
+    "Imagesn/1.png",
+    "Networking Basics/Module 1/1.3 Data Transmission.md",
+    "RoadMap/Phase-1/Week-4.md",
+    "RoadMap/Phase-1/Week-3.md",
+    "RoadMap/Phase-1/Week-2.md",
+    "RoadMap/Phase-1/Week-1.md",
+    "RoadMap/Phase-1/Phase-0.md",
+    "RoadMap/Cover/Cover.md",
+    "RoadMap/Daily-Notes/Day-4.md",
+    "RoadMap/Daily-Notes/Day-5.md",
+    "RoadMap/Daily-Notes/Day-3.md",
+    "RoadMap/Daily-Notes/Day-2.md",
+    "RoadMap/Daily-Notes/Day-1.md",
+    "RoadMap/Phase-1",
+    "RoadMap/Cover",
+    "RoadMap/Daily-Notes",
+    "RoadMap",
+    "Networking Basics/Module 1/1.1 Learning Objectives.md",
+    "Networking Basics/Module 1/1.4 Bandwidth and Throughput.md",
+    "Cisco Packet Tracer/1.5 Logical and Physical Mode Exploration.md",
+    "Networking Basics/Module 1/RoadMap/Daily-Notes/Day-4.md",
     "Cheatsheets/Cheatsheet-Linux.md",
     "Cheatsheets/Cheatsheet-Global.md",
     "Cheatsheets",
     "New folder",
-    "RoadMap/Daily-Notes/Day-5.md",
+    "Networking Basics/Module 1/RoadMap/Daily-Notes/Day-5.md",
     "RoadMap/Daily-Notes/Day-6.md",
     "RoadMap/Daily-Notes/Day-8.md",
     "RoadMap/Daily-Notes/Day-7.md",
     "RoadMap/Daily-Notes/Day-9.md",
     "RoadMap/Daily-Notes/img.png",
-    "RoadMap/Daily-Notes/Day-30.md",
-    "RoadMap/Daily-Notes/Day-29.md",
-    "RoadMap/Daily-Notes/Day-28.md",
-    "RoadMap/Daily-Notes/Day-27.md",
-    "RoadMap/Daily-Notes/Day-26.md",
-    "RoadMap/Daily-Notes/Day-25.md",
-    "RoadMap/Daily-Notes/Day-24.md",
-    "RoadMap/Daily-Notes/Day-23.md",
-    "RoadMap/Daily-Notes/Day-22.md",
-    "RoadMap/Daily-Notes/Day-21.md",
-    "RoadMap/Daily-Notes/Day-20.md",
-    "RoadMap/Daily-Notes/Day-19.md",
-    "RoadMap/Daily-Notes/Day-18.md",
-    "RoadMap/Daily-Notes/Day-17.md",
-    "RoadMap/Daily-Notes/Day-16.md",
-    "RoadMap/Daily-Notes/Day-15.md",
-    "RoadMap/Daily-Notes/Day-14.md",
-    "RoadMap/Daily-Notes/Day-13.md",
-    "RoadMap/Daily-Notes/Day-12.md",
     "Networking Basics/Module 1",
     "Networking Basics",
     "Imagesn",
     "Images/badge1.png",
     "Images/badge.png",
     "Images/Unconfirmed 23780.crdownload",
-    "Cisco Packet Tracer/Create a Simple Network.pka~",
-    "Images/ping.png",
-    "Cisco Packet Tracer/Building a Simple Network.pkt~",
-    "Cisco Packet Tracer/Create a Simple Network.pka",
-    "Images/cisco.png",
-    "Cisco Packet Tracer/Building a Simple Network.pkt",
-    "Images/connections3.png",
-    "Images/Switches.png",
-    "Images/copper.png",
-    "Images/ipconfig.png",
-    "Images/ip2.png",
     "Untitled.canvas"
   ]
 }
