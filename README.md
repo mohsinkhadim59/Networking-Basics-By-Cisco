@@ -18,38 +18,32 @@
 
 # Networking Basics
 
-**Course** – Introduction to small‑office / home‑office (SOHO) networking  
+**Course** – Introduction to the basics of Networking Essential for people diving into the field of networking in any form whether its cybersecurity or networking or anything related to IT, network devices, PCs etc  
 **Audience** – Beginners, home users, IT support staff, and anyone looking to gain a solid foundation in network design, configuration, and troubleshooting.  
-**Duration** – ~6 hrs of guided labs + 2 hrs of self‑study (total ~8 hrs)
+**Duration** – 22 Hours
 
 ---
 
 ## 🎯 Course Purpose
+he Networking Basics course teaches the fundamentals of networking by covering the basic concepts and skills needed to set up and manage your small office or home office (SOHO) network. The learner is presented with an engaging and exploratory view of networks, the devices that comprise them, how they work, and basic troubleshooting tools and techniques. The goal of this course is to provide the learner with an engaging, exploratory view of networks, including the internet. Upon completion of the Networking Basics course, students will be able to perform the following tasks:
 
-The **Networking Basics** course equips you with the essential concepts and hands‑on skills to:
-
-- **Design** a functional SOHO network.
-- **Configure** wired and wireless devices securely.
-- **Troubleshoot** common connectivity problems using industry‑standard tools.
-- **Prepare** for more advanced networking, security, or cloud certifications.
-
----
-
-## 📚 What’s Covered
-
-| Topic | Key Learning Points |
-|-------|---------------------|
-| **Fundamentals of Network Communication** | Data flow, OSI model, protocols, packet structure |
-| **Network Types & Components** | LAN/WAN, routers, switches, hubs, firewalls, Wi‑Fi APs |
-| **Wireless Configuration** | SSID, WPA2/WPA3, mobile device setup |
-| **Network Media & Ethernet** | Copper vs fiber, RJ45, CAT‑5e/6, Ethernet frames |
-| **IP Addressing (IPv4 & IPv6)** | Subnetting, CIDR, address classes, global vs link‑local |
-| **Dynamic Host Configuration Protocol (DHCP)** | Server configuration, lease management |
-| **Routing Basics** | Static routing, default gateways, inter‑network traffic |
-| **Address Resolution Protocol (ARP)** | IP↔MAC mapping, ARP cache |
-| **LAN Design & Connectivity** | Star topology, cabling, NIC configuration |
-| **Internet Access & DNS** | ISP connection, domain name resolution, application‑layer protocols |
-| **Troubleshooting Tools** | Ping, traceroute, arp, Wireshark, network analyzers |
+- Explain important concepts in network communication.
+- Explain network types, components, and connections.
+- Configure mobile devices for wireless access.
+- Configure an integrated wireless router and wireless client to connect securely to the internet.
+- Explain the importance of standards and protocols in network communications.
+- Describe common network media.
+- Explain how communication occurs on Ethernet networks.
+- Explain the features of an IP address.
+- Explain how IPv4 addresses are used in network communication and segmentation.
+- Explain features of IPv6 addressing.
+- Configure a DHCP server.
+- Explain how routers connect networks together.
+- Explain how ARP enables communication on a network.
+- Create a fully connected LAN.
+- Explain how clients access internet services.
+- Explain the function of common application layer services.
+- Use various tools to test and troubleshoot network connectivity.
 
 ---
 

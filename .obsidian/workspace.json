@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cisco Packet Tracer/1.1 Cisco Packet Tracer.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 Cisco Packet Tracer"
+              "title": "README"
             }
           }
         ],
@@ -310,6 +310,7 @@
   },
   "active": "4fd6104fba004513",
   "lastOpenFiles": [
+    "Cisco Packet Tracer/1.1 Cisco Packet Tracer.md",
     "Images/badge1.png",
     "Cisco Packet Tracer/2.3 Create a Simple Network.md",
     "Images/badge.png",
@@ -337,8 +338,6 @@
     "RoadMap/Cover/Cover.md",
     "Table of Contents.base",
     "Untitled.md",
-    "Cisco Packet Tracer/1.1 Cisco Packet Tracer.md",
-    "Images/assement.png",
     "RoadMap/Daily-Notes/Day-1.md",
     "RoadMap/Cheatsheets/Cheatsheet-SSH.md",
     "RoadMap/Cheatsheets/Cheatsheet-Linux.md",
