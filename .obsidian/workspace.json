@@ -14,11 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "Networking Basics/Module 2/2.4 ISP Connectivity Options.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "2.4 ISP Connectivity Options"
+            }
+          },
+          {
+            "id": "be045bd618bcc8cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking Basics/Module 2/2.3 Netowrk Components.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.3 Netowrk Components"
             }
           }
         ]
@@ -295,10 +309,21 @@
   },
   "active": "ac52ec2c5be2bb44",
   "lastOpenFiles": [
-    "Networking Basics/Module 2/2.1 Learning Objectives.md",
-    "Networking Basics/Module 2/2.4 ISP Connectivity Options.md",
-    "Networking Basics/Module 2/2.2 Clients and Servers.md",
     "Networking Basics/Module 2/2.3 Netowrk Components.md",
+    "Cisco Packet Tracer/2.2 Device Connection Types.md",
+    "Networking Basics/Module 2/2.4 ISP Connectivity Options.md",
+    "Imagesn/25.png",
+    "Imagesn/24.png",
+    "Imagesn/23.png",
+    "Imagesn/22.png",
+    "Imagesn/21.png",
+    "Imagesn/20.png",
+    "Imagesn/19.png",
+    "Networking Basics/Module 2/2.2 Clients and Servers.md",
+    "Imagesn/17.png",
+    "Imagesn/18.png",
+    "Imagesn/16.png",
+    "Networking Basics/Module 2/2.1 Learning Objectives.md",
     "Networking Basics/Module 1/1.1 Learning Objectives.md",
     "Networking Basics/Module 1/1.4 Bandwidth and Throughput.md",
     "Cisco Packet Tracer/1.1 Cisco Packet Tracer.md",
@@ -308,17 +333,7 @@
     "www.speedtest.net.md",
     "Cisco Packet Tracer/1.6 Cisco Packet Tracer File Types.md",
     "www.speedtest,net.md",
-    "Imagesn/10.png",
-    "Imagesn/9.png",
-    "Imagesn/8.png",
-    "Imagesn/7.png",
     "Networking Basics/Module 1/1.2 Network Types.md",
-    "Imagesn/5.png",
-    "Imagesn/4.png",
-    "Imagesn/3.png",
-    "Imagesn/Screenshot 2025-11-17 173639.png",
-    "Imagesn/2.png",
-    "Imagesn/1.png",
     "RoadMap/Phase-1/Week-4.md",
     "RoadMap/Phase-1/Week-3.md",
     "RoadMap/Phase-1/Week-2.md",
@@ -334,8 +349,6 @@
     "RoadMap/Cover",
     "RoadMap/Daily-Notes",
     "RoadMap",
-    "Cisco Packet Tracer/1.5 Logical and Physical Mode Exploration.md",
-    "Networking Basics/Module 1/RoadMap/Daily-Notes/Day-4.md",
     "Cheatsheets",
     "New folder",
     "Networking Basics/Module 1",

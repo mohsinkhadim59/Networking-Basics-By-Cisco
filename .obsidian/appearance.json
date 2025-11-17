@@ -1,7 +1,7 @@
 {
   "enabledCssSnippets": [
     "graph-nodes",
-    "center-callout",
-    "auto-center"
+    "auto-center",
+    "center-callout"
   ]
 }
