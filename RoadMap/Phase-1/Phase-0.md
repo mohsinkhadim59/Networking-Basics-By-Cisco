@@ -10,7 +10,6 @@ tags: [networking, SOHO, fundamentals, troubleshooting]](#title-networking-basic
   - [What You’ll Be Able to Do After Completion](#what-youll-be-able-to-do-after-completion)
   - [How the Course is Structured](#how-the-course-is-structured)
 
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ---
