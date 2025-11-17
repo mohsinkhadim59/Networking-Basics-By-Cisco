@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [1.2: The Internet as a Network of Networks](#12-the-internet-as-a-network-of-networks)
+- [Small and Large Networks](#small-and-large-networks)
+- [Internet-Connected Devices](#internet-connected-devices)
+- [1.3: Categories of Personal Data](#13-categories-of-personal-data)
+- [Data Transmission and Signals](#data-transmission-and-signals)
+- [Bandwidth vs. Throughput](#bandwidth-vs-throughput)
+- [Latency](#latency)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## 1.2: The Internet as a Network of Networks
 - The Internet is not owned by any single individual or group.
 - It is a global network of interconnected networks that cooperate using common standards.
