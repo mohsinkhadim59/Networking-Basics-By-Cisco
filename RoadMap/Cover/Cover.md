@@ -1,8 +1,9 @@
 ---
-title: Obsidian Pentest Roadmap
+title: Networking Basics By Cisco
 author: Mohsin Khadim
-date: 2025-08-17
+date: 2025-11-17
 tags:
-  - pentest
   - roadmap
+  - networking
+  - basics
 ---

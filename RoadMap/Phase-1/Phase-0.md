@@ -9,8 +9,7 @@ tags: [networking, SOHO, fundamentals, troubleshooting]](#title-networking-basic
   - [Key Topics Covered](#key-topics-covered)
   - [What You’ll Be Able to Do After Completion](#what-youll-be-able-to-do-after-completion)
   - [How the Course is Structured](#how-the-course-is-structured)
-  - [path to your next role.](#path-to-your-next-role)
-  - [📅 Weeks](#-weeks)
+
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -82,14 +81,6 @@ The **Networking Basics** course introduces the core concepts and practical skil
 ---
 
 > [!Tip] Practice with virtual lab environments or home networking gear whenever possible. The skills you build here form the foundation for advanced networking, cybersecurity, and cloud networking studies.
-path to your next role.
----
-
-## 📅 Weeks
-- [Week-1](Week-1.md)
-- [Week-2](Week-2.md)
-- [Week-3](Week-3.md)
-- [Week-4](Week-4.md)
 
 ---
 
