@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking Basics/Module 3/3.3 Mobile Device Connectivity.md",
-                "mode": "preview",
+                "file": "Cisco Packet Tracer/2.2 Device Connection Types.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.3 Mobile Device Connectivity"
+              "title": "2.2 Device Connection Types"
             }
           },
           {
@@ -309,8 +309,8 @@
   },
   "active": "ac52ec2c5be2bb44",
   "lastOpenFiles": [
-    "Networking Basics/Module 3/3.2 Wireless Networks.md",
     "Networking Basics/Module 3/3.3 Mobile Device Connectivity.md",
+    "Networking Basics/Module 3/3.2 Wireless Networks.md",
     "Networking Basics/Module 2/2.3 Netowrk Components.md",
     "Networking Basics/Module 2/2.1 Learning Objectives.md",
     "Imagesn/33.png",
