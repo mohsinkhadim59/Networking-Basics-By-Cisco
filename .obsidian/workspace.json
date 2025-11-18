@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking Basics/Module 3/3.3 Mobile DeviceConnectivity.md",
-                "mode": "source",
+                "file": "Networking Basics/Module 3/3.3 Mobile Device Connectivity.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.3 Mobile DeviceConnectivity"
+              "title": "3.3 Mobile Device Connectivity"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking Basics/Module 2/2.1 Learning Objectives.md",
-                "mode": "preview",
+                "file": "Networking Basics/Module 2/2.3 Netowrk Components.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1 Learning Objectives"
+              "title": "2.3 Netowrk Components"
             }
           }
         ]
@@ -309,8 +309,11 @@
   },
   "active": "ac52ec2c5be2bb44",
   "lastOpenFiles": [
-    "Imagesn/33.png",
     "Networking Basics/Module 3/3.2 Wireless Networks.md",
+    "Networking Basics/Module 3/3.3 Mobile Device Connectivity.md",
+    "Networking Basics/Module 2/2.3 Netowrk Components.md",
+    "Networking Basics/Module 2/2.1 Learning Objectives.md",
+    "Imagesn/33.png",
     "Imagesn/32.png",
     "Imagesn/31.png",
     "Imagesn/30.png",
@@ -318,10 +321,7 @@
     "Imagesn/28.png",
     "Imagesn/27.png",
     "Imagesn/26.png",
-    "Networking Basics/Module 3/3.3 Mobile DeviceConnectivity.md",
     "Networking Basics/Module 3/3.1 Learning Objectives.md",
-    "Networking Basics/Module 2/2.1 Learning Objectives.md",
-    "Networking Basics/Module 2/2.3 Netowrk Components.md",
     "Networking Basics/Module 1/1.2 Network Types.md",
     "Networking Basics/Module 3",
     "LICENSE.txt",
@@ -331,7 +331,6 @@
     "Cisco Packet Tracer/2.2 Device Connection Types.md",
     "Imagesn/25.png",
     "Imagesn/24.png",
-    "Imagesn/23.png",
     "Networking Basics/Module 2/2.2 Clients and Servers.md",
     "Networking Basics/Module 1/1.1 Learning Objectives.md",
     "Cisco Packet Tracer/1.1 Cisco Packet Tracer.md",
