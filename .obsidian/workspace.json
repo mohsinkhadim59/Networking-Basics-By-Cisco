@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Networking Basics/Module 4/4.5 Set Up a Home Router.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -309,6 +309,10 @@
   },
   "active": "ac52ec2c5be2bb44",
   "lastOpenFiles": [
+    "Networking Basics/Module 3/3.3 Mobile Device Connectivity.md",
+    "Networking Basics/Module 4/4.5 Set Up a Home Router.md",
+    "Networking Basics/Module 4/Configure a Wireless Router and Client.pka",
+    "Imagesn/41.png",
     "Networking Basics/Module 4/4.4 Wireless Standards .md",
     "Imagesn/40.png",
     "Networking Basics/Module 4/4.3 Netowrk Technologies in the Home.md",
@@ -317,8 +321,6 @@
     "Imagesn/37.png",
     "Imagesn/36.png",
     "Networking Basics/Module 4/4.2 Home Network Basics.md",
-    "Networking Basics/Module 3/3.3 Mobile Device Connectivity.md",
-    "Networking Basics/Module 4/4.5 Set Up a Home Router.md",
     "Networking Basics/Module 2/2.1 Learning Objectives.md",
     "Imagesn/35.png",
     "Imagesn/34.png",
@@ -332,7 +334,6 @@
     "Networking Basics/Module 3/3.2 Wireless Networks.md",
     "Imagesn/33.png",
     "Imagesn/32.png",
-    "Imagesn/31.png",
     "Networking Basics/Module 3/3.1 Learning Objectives.md",
     "Networking Basics/Module 1/1.2 Network Types.md",
     "Networking Basics/Module 3",
@@ -353,7 +354,6 @@
     "RoadMap/Daily-Notes",
     "RoadMap",
     "Cheatsheets",
-    "New folder",
     "Untitled.canvas"
   ]
 }
