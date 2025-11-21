@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking Basics/Module 4/4.5 Set Up a Home Router.md",
-                "mode": "preview",
+                "file": "Cheatsheets/Cheatsheet-Linux.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.5 Set Up a Home Router"
+              "title": "Cheatsheet-Linux"
             }
           },
           {
@@ -309,8 +309,8 @@
   },
   "active": "ac52ec2c5be2bb44",
   "lastOpenFiles": [
-    "Networking Basics/Module 3/3.3 Mobile Device Connectivity.md",
     "Networking Basics/Module 4/4.5 Set Up a Home Router.md",
+    "Networking Basics/Module 3/3.3 Mobile Device Connectivity.md",
     "Networking Basics/Module 4/Configure a Wireless Router and Client.pka",
     "Imagesn/41.png",
     "Networking Basics/Module 4/4.4 Wireless Standards .md",
