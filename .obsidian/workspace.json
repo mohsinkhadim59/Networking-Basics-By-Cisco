@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheatsheets/Cheatsheet-Linux.md",
-                "mode": "preview",
+                "file": "Networking Basics/Module 5/5.2 Communication Protocols.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cheatsheet-Linux"
+              "title": "5.2 Communication Protocols"
             }
           },
           {
@@ -309,9 +309,13 @@
   },
   "active": "ac52ec2c5be2bb44",
   "lastOpenFiles": [
+    "Networking Basics/Module 5/5.1 Learning Objectives.md",
+    "Networking Basics/Module 5/5.2 Communication Protocols.md",
+    "Networking Basics/Module 5/5.3 Communication Standards.md",
+    "Networking Basics/Module 5/5.4 Network Communication Models.md",
+    "Cheatsheets/Cheatsheet-Linux.md",
     "Cheatsheets/Cheatsheet-Global.md",
     "RoadMap/Daily-Notes/Day-3.md",
-    "Cheatsheets/Cheatsheet-Linux.md",
     "Cheatsheets/Glossary Domain 1 Security Principles.md",
     "RoadMap/Phase-1/Week-4.md",
     "RoadMap/Phase-1/Week-3.md",
@@ -344,12 +348,8 @@
     "Networking Basics/Module 3/3.2 Wireless Networks.md",
     "Imagesn/33.png",
     "Imagesn/32.png",
-    "Networking Basics/Module 3/3.1 Learning Objectives.md",
-    "Networking Basics/Module 1/1.2 Network Types.md",
     "Networking Basics/Module 3",
     "LICENSE.txt",
-    "Networking Basics/Module 1/1.4 Bandwidth and Throughput.md",
-    "Networking Basics/Module 1/1.3 Data Transmission.md",
     "Networking Basics/Module 2",
     "RoadMap/Phase-1",
     "RoadMap/Cover",
