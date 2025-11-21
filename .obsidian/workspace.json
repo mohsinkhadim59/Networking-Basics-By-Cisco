@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking Basics/Module 4/4.1 Learning Objectives.md",
-                "mode": "source",
+                "file": "Cheatsheets/Cheatsheet-Linux.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1 Learning Objectives"
+              "title": "Cheatsheet-Linux"
             }
           },
           {
@@ -309,9 +309,18 @@
   },
   "active": "ac52ec2c5be2bb44",
   "lastOpenFiles": [
+    "Cheatsheets/Cheatsheet-Global.md",
+    "Cheatsheets/Glossary Domain 1 Security Principles.md",
+    "RoadMap/Phase-1/Week-4.md",
+    "RoadMap/Phase-1/Week-3.md",
+    "RoadMap/Phase-1/Week-1.md",
+    "RoadMap/Daily-Notes/Day-3.md",
+    "RoadMap/Daily-Notes/Day-2.md",
+    "RoadMap/Daily-Notes/Day-1.md",
+    "Networking Basics/Module 4/4.1 Learning Objectives.md",
     "Networking Basics/Module 4/4.5 Set Up a Home Router.md",
     "Networking Basics/Module 5",
-    "Cheatsheets/Cheatsheet-Cisco.md",
+    "Cheatsheets/Cheatsheet-Linux.md",
     "Networking Basics/Module 3/3.3 Mobile Device Connectivity.md",
     "Networking Basics/Module 4/Configure a Wireless Router and Client.pka",
     "Imagesn/41.png",
@@ -326,7 +335,6 @@
     "Networking Basics/Module 2/2.1 Learning Objectives.md",
     "Imagesn/35.png",
     "Imagesn/34.png",
-    "Networking Basics/Module 4/4.1 Learning Objectives.md",
     "Networking Basics/Module 2/2.3 Netowrk Components.md",
     "Networking Basics/Module 4",
     "Networking Basics/Module 2/2.4 ISP Connectivity Options.md",
@@ -342,14 +350,7 @@
     "LICENSE.txt",
     "Networking Basics/Module 1/1.4 Bandwidth and Throughput.md",
     "Networking Basics/Module 1/1.3 Data Transmission.md",
-    "Networking Basics/Module 2/2.2 Clients and Servers.md",
-    "Networking Basics/Module 1/1.1 Learning Objectives.md",
-    "Cisco Packet Tracer/1.1 Cisco Packet Tracer.md",
     "Networking Basics/Module 2",
-    "Networking Basics/Module 1/1.5 Summary.md",
-    "www.speedtest.net.md",
-    "Cisco Packet Tracer/1.6 Cisco Packet Tracer File Types.md",
-    "www.speedtest,net.md",
     "RoadMap/Phase-1",
     "RoadMap/Cover",
     "RoadMap/Daily-Notes",

@@ -27,7 +27,7 @@ for (let p of pages) {
         // Handle multiple categories
         let cats = catField.split(",").map(c => c.trim()).filter(c => c);
         for (let c of cats) {
-          if (c.toLowerCase() !== "cisco") continue; // only keep SSH
+          if (c.toLowerCase() !== "Linux") continue; // only keep SSH
           let key = c.toLowerCase() + "|" + cmdPlain.toLowerCase();
           if (!merged.has(key)) {
             merged.set(key, { cat: c, cmdPlain, cmdRaw, desc, froms: new Set([from]) });

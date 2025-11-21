@@ -53,6 +53,6 @@
 
 
 
-[Cheatsheet-Cisco](Cheatsheet-Cisco.md) 🔗
+[Cheatsheet-Linux](Cheatsheet-Linux.md) 🔗
 [Cheatsheet-SSH](Cheatsheet-SSH.md)🔗
 [Cheatsheet-Global](Cheatsheet-Global.md)🔗
