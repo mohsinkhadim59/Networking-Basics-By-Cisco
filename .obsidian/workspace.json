@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking Basics/Module 6/6.2 Network Media Types.md",
-                "mode": "source",
+                "file": "Networking Basics/Module 7/7.2 Encapsulation and Ethernet Frame.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.2 Network Media Types"
+              "title": "7.2 Encapsulation and Ethernet Frame"
             }
           },
           {
@@ -329,6 +329,13 @@
   },
   "active": "ac52ec2c5be2bb44",
   "lastOpenFiles": [
+    "Networking Basics/Module 7/7.3 The Access Layer.md",
+    "Networking Basics/Module 7/7.1 Learning Objectives.md",
+    "Networking Basics/Module 7/3.3 The Access Layer.md",
+    "Networking Basics/Module 7/7.2 Encapsulation and Ethernet Frame.md",
+    "Networking Basics/Module 3/3.1 Learning Objectives.md",
+    "Networking Basics/Module 6/6.2 Network Media Types.md",
+    "Networking Basics/Module 7",
     "Imagesn/61.png",
     "Imagesn/60.png",
     "Imagesn/59.jpg",
@@ -344,7 +351,6 @@
     "Imagesn/54.jpg",
     "Imagesn/Unconfirmed 608597.crdownload",
     "Networking Basics/Module 6/6.1 Learning Objectives.md",
-    "Networking Basics/Module 6/6.2 Network Media Types.md",
     "Networking Basics/Module 1/1.1 Learning Objectives.md",
     "Networking Basics/Module 5/5.4 Network Communication Models.md",
     "Networking Basics/Module 6",
@@ -352,8 +358,6 @@
     "Imagesn/Unconfirmed 700487.crdownload",
     "Imagesn/53.webp",
     "Imagesn/Unconfirmed 591656.crdownload",
-    "Imagesn/52.jpg",
-    "Imagesn/Unconfirmed 734419.crdownload",
     "Networking Basics/Module 5/5.3 Communication Standards.md",
     "Networking Basics/Module 5/5.2 Communication Protocols.md",
     "Networking Basics/Module 5/5.1 Learning Objectives.md",
@@ -369,12 +373,8 @@
     "Networking Basics/Module 3/3.3 Mobile Device Connectivity.md",
     "Cisco Packet Tracer/2.2 Device Connection Types.md",
     "Networking Basics/Module 3/3.2 Wireless Networks.md",
-    "Networking Basics/Module 3/3.1 Learning Objectives.md",
     "Networking Basics/Module 1/1.2 Network Types.md",
     "Networking Basics/Module 1/1.4 Bandwidth and Throughput.md",
-    "Networking Basics/Module 1/1.3 Data Transmission.md",
-    "Networking Basics/Module 2/2.4 ISP Connectivity Options.md",
-    "Cisco Packet Tracer/1.1 Cisco Packet Tracer.md",
     "Untitled.canvas"
   ]
 }
