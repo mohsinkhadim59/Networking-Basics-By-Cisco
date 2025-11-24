@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac52ec2c5be2bb44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking Basics/Module 7/7.2 Encapsulation and Ethernet Frame.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.2 Encapsulation and Ethernet Frame"
-            }
-          },
-          {
             "id": "be045bd618bcc8cb",
             "type": "leaf",
             "state": {
@@ -97,199 +83,9 @@
   "right": {
     "id": "f7390f919bb25969",
     "type": "split",
-    "children": [
-      {
-        "id": "819991110b890480",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "14c2ce35e0d715b8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Cisco Packet Tracer/1.1 Cisco Packet Tracer.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 1.1 Cisco Packet Tracer"
-            }
-          },
-          {
-            "id": "c4d844da668e1708",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Cisco Packet Tracer/1.1 Cisco Packet Tracer.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 1.1 Cisco Packet Tracer"
-            }
-          },
-          {
-            "id": "a35525732f4bba7a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "e1408ce9b1a9aaa5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "ddd27f16939bc297",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "juggl_nodes"
-            }
-          },
-          {
-            "id": "e5037be2932c27b2",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "juggl_style"
-            }
-          },
-          {
-            "id": "84ec0edc71413bbc",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "580d79fb9656ad73",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "mermaid-toolbar-view"
-            }
-          },
-          {
-            "id": "cbacacaa43f2038d",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "juggl_nodes"
-            }
-          },
-          {
-            "id": "06c5909b463afa62",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "juggl_style"
-            }
-          },
-          {
-            "id": "e11985e8f89f6678",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "juggl_nodes"
-            }
-          },
-          {
-            "id": "63b1f0061f4da333",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "juggl_style"
-            }
-          },
-          {
-            "id": "395f07a252bd2cc8",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "juggl_nodes"
-            }
-          },
-          {
-            "id": "4e43ca1c86d784b0",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "juggl_style"
-            }
-          },
-          {
-            "id": "a7a6c316dcd366f1",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
-            }
-          },
-          {
-            "id": "bdcb8abcd6677a94",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
-            }
-          }
-        ],
-        "currentTab": 1
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 300,
+    "width": 712.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -303,17 +99,16 @@
       "command-palette:Open command palette": false,
       "juggl:Juggl global graph": false,
       "obsidian-kanban:Create new board": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ac52ec2c5be2bb44",
+  "active": "be045bd618bcc8cb",
   "lastOpenFiles": [
+    "Networking Basics/Module 7/7.2 Encapsulation and Ethernet Frame.md",
     "Imagesn/64.png",
     "Imagesn/usb2.png",
     "Imagesn/usb.png",
     "Networking Basics/Module 5/5.2 Communication Protocols.md",
-    "Networking Basics/Module 7/7.2 Encapsulation and Ethernet Frame.md",
     "Networking Basics/Module 3/3.3 Mobile Device Connectivity.md",
     "Imagesn/63.png",
     "Imagesn/Unconfirmed 228061.crdownload",
@@ -330,7 +125,6 @@
     "Imagesn/59.jpg",
     "Imagesn/58.jpg",
     "Imagesn/57.jpg",
-    "Imagesn/56.jpg",
     "Networking Basics/Module 5/5.1 Learning Objectives.md",
     "Networking Basics/Module 5/5.3 Communication Standards.md",
     "Networking Basics/Module 5/5.4 Network Communication Models.md",
