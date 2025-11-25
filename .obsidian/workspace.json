@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RoadMap/Phase-1/Phase-0.md",
-                "mode": "source",
+                "file": "Networking Basics/Module 8/8.2 Purpose of an IPv4 Address.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phase-0"
+              "title": "8.2 Purpose of an IPv4 Address"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 206.5
   },
   "right": {
     "id": "f7390f919bb25969",
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Networking Basics/Module 8/8.2 Purpose of an IPv4 Address.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 8.2 Purpose of an IPv4 Address"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Networking Basics/Module 8/8.2 Purpose of an IPv4 Address.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 8.2 Purpose of an IPv4 Address"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RoadMap/Phase-1/Week-1.md",
+                "file": "Networking Basics/Module 8/8.2 Purpose of an IPv4 Address.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Week-1"
+              "title": "Outline of 8.2 Purpose of an IPv4 Address"
             }
           },
           {
@@ -200,10 +202,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8d1fc3a3b6e57ef2",
+  "active": "be045bd618bcc8cb",
   "lastOpenFiles": [
-    "RoadMap/Phase-1/Phase-0.md",
+    "Imagesn/70.png",
+    "Imagesn/69.png",
+    "Imagesn/68.png",
     "RoadMap/Phase-1/Week-1.md",
+    "RoadMap/Phase-1/Phase-0.md",
     "RoadMap/Phase-1/Week-2.md",
     "RoadMap/Phase-1/Week-3.md",
     "RoadMap/Phase-1/Week-4.md",
@@ -235,15 +240,12 @@
     "Networking Basics/Module 7",
     "Networking Basics/Module 6/6.2 Network Media Types.md",
     "Networking Basics/Module 6",
-    "Imagesn/61.png",
-    "Imagesn/60.png",
     "Networking Basics/Module 5/5.1 Learning Objectives.md",
     "Cheatsheets/Cheatsheet-Linux.md",
     "Cheatsheets/Cheatsheet-Global.md",
     "RoadMap/Daily-Notes/Day-3.md",
     "Cheatsheets/Glossary Domain 1 Security Principles.md",
     "RoadMap/Daily-Notes/Day-2.md",
-    "RoadMap/Daily-Notes/Day-1.md",
     "Networking Basics/Module 5",
     "Networking Basics/Module 4/Configure a Wireless Router and Client.pka",
     "Networking Basics/Module 4",
