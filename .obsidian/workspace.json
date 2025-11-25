@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking Basics/Module 8/8.3 The IPv4 Address Structure.md",
-                "mode": "preview",
+                "file": "Networking Basics/Module 9/9.2 IPv4 Unicast, Broadcast, Multicast.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.3 The IPv4 Address Structure"
+              "title": "9.2 IPv4 Unicast, Broadcast, Multicast"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking Basics/Module 8/8.3 The IPv4 Address Structure.md",
+                "file": "Networking Basics/Module 9/9.2 IPv4 Unicast, Broadcast, Multicast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 8.3 The IPv4 Address Structure"
+              "title": "Backlinks for 9.2 IPv4 Unicast, Broadcast, Multicast"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking Basics/Module 8/8.3 The IPv4 Address Structure.md",
+                "file": "Networking Basics/Module 9/9.2 IPv4 Unicast, Broadcast, Multicast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 8.3 The IPv4 Address Structure"
+              "title": "Outgoing links from 9.2 IPv4 Unicast, Broadcast, Multicast"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking Basics/Module 8/8.3 The IPv4 Address Structure.md",
+                "file": "Networking Basics/Module 9/9.2 IPv4 Unicast, Broadcast, Multicast.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 8.3 The IPv4 Address Structure"
+              "title": "Outline of 9.2 IPv4 Unicast, Broadcast, Multicast"
             }
           },
           {
@@ -204,6 +204,14 @@
   },
   "active": "be045bd618bcc8cb",
   "lastOpenFiles": [
+    "Networking Basics/Module 9/9.1 Learning Objectives.md",
+    "Networking Basics/Module 9/9.2 IPv4 Unicast, Broadcast, Multicast.md",
+    "Networking Basics/Module 9/9.4 Network Segmentation.md",
+    "Networking Basics/Module 9/9.3 Types of IPv4 Addresses.md",
+    "Networking Basics/Module 8/8.1 Learning Objectives.md",
+    "Networking Basics/Module 9",
+    "Networking Basics/Module 1/1.1 Learning Objectives.md",
+    "Networking Basics/Module 8/8.3 The IPv4 Address Structure.md",
     "Imagesn/72.png",
     "Networking Basics/Module 8/8.2 Purpose of an IPv4 Address.md",
     "Networking Basics/Module 8/Connect to a Web Server.pka",
@@ -216,9 +224,7 @@
     "RoadMap/Phase-1/Week-2.md",
     "RoadMap/Phase-1/Week-3.md",
     "RoadMap/Phase-1/Week-4.md",
-    "Networking Basics/Module 8/8.3 The IPv4 Address Structure.md",
     "Networking Basics/Module 8/8.3 The Access Layer.md",
-    "Networking Basics/Module 8/8.1 Learning Objectives 1.md",
     "Networking Basics/Module 7/7.1 Learning Objectives.md",
     "Networking Basics/Module 7/7.3 The Access Layer.md",
     "Networking Basics/Module 8",
@@ -234,7 +240,6 @@
     "Imagesn/65.png",
     "Imagesn/64.png",
     "Imagesn/usb2.png",
-    "Imagesn/usb.png",
     "Networking Basics/Module 3/3.3 Mobile Device Connectivity.md",
     "Imagesn/Unconfirmed 228061.crdownload",
     "Imagesn/Unconfirmed 998936.crdownload",
@@ -243,13 +248,8 @@
     "Networking Basics/Module 6",
     "Networking Basics/Module 5/5.1 Learning Objectives.md",
     "Cheatsheets/Cheatsheet-Linux.md",
-    "Cheatsheets/Cheatsheet-Global.md",
-    "RoadMap/Daily-Notes/Day-3.md",
-    "Cheatsheets/Glossary Domain 1 Security Principles.md",
-    "RoadMap/Daily-Notes/Day-2.md",
     "Networking Basics/Module 5",
     "Networking Basics/Module 4/Configure a Wireless Router and Client.pka",
-    "Networking Basics/Module 4",
     "Untitled.canvas"
   ]
 }
