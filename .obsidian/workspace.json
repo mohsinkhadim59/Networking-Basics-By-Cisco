@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Networking Basics/Module 9/9.3 Types of IPv4 Addresses.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -341,6 +341,7 @@
   },
   "active": "51c7bb06039a1fdc",
   "lastOpenFiles": [
+    "Imagesn/79.png",
     "Networking Basics/Module 9/9.3 Types of IPv4 Addresses.md",
     "Networking Basics/Module 2/2.3 Netowrk Components.md",
     "Networking Basics/Module 9/9.2 IPv4 Unicast, Broadcast, Multicast.md",
@@ -386,7 +387,6 @@
     "Networking Basics/Module 4/4.4 Wireless Standards .md",
     "Networking Basics/Module 4/4.3 Netowrk Technologies in the Home.md",
     "Networking Basics/Module 4/4.2 Home Network Basics.md",
-    "Networking Basics/Module 4/4.1 Learning Objectives.md",
     "Untitled.canvas"
   ]
 }
