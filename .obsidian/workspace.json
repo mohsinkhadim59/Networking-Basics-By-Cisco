@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Networking Basics/Module 9/9.3 Types of IPv4 Addresses.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -339,7 +339,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4823134888fa2245",
+  "active": "51c7bb06039a1fdc",
   "lastOpenFiles": [
     "Networking Basics/Module 9/9.3 Types of IPv4 Addresses.md",
     "Networking Basics/Module 2/2.3 Netowrk Components.md",
