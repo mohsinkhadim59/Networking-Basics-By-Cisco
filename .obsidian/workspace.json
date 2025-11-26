@@ -34,18 +34,6 @@
               "icon": "lucide-file",
               "title": "9.3 Types of IPv4 Addresses"
             }
-          },
-          {
-            "id": "4823134888fa2245",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
           }
         ],
         "currentTab": 1
