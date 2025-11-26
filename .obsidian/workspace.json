@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking Basics/Module 9/9.3 Types of IPv4 Addresses.md",
+                "file": "Networking Basics/Module 9/9.4 Network Segmentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.3 Types of IPv4 Addresses"
+              "title": "9.4 Network Segmentation"
             }
           }
         ],
@@ -329,10 +329,11 @@
   },
   "active": "51c7bb06039a1fdc",
   "lastOpenFiles": [
+    "Networking Basics/Module 9/9.3 Types of IPv4 Addresses.md",
+    "Imagesn/82.png",
     "Imagesn/80.png",
     "Imagesn/81.png",
     "Imagesn/79.png",
-    "Networking Basics/Module 9/9.3 Types of IPv4 Addresses.md",
     "Networking Basics/Module 2/2.3 Netowrk Components.md",
     "Networking Basics/Module 9/9.2 IPv4 Unicast, Broadcast, Multicast.md",
     "Networking Basics/Module 9/9.1 Learning Objectives.md",
@@ -350,8 +351,6 @@
     "Imagesn/75.png",
     "Imagesn/74.png",
     "Imagesn/73.png",
-    "Imagesn/72.png",
-    "Imagesn/71.png",
     "Networking Basics/Module 7/7.3 The Access Layer.md",
     "Networking Basics/Module 7/7.1 Learning Objectives.md",
     "Networking Basics/Module 7/3.3 The Access Layer.md",
