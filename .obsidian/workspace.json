@@ -24,11 +24,23 @@
           {
             "id": "51c7bb06039a1fdc",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Juggl"
+            }
+          },
+          {
+            "id": "a36f2c8d8e784740",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Networking Basics/Module 9/9.4 Network Segmentation.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -36,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -327,8 +339,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "51c7bb06039a1fdc",
+  "active": "a36f2c8d8e784740",
   "lastOpenFiles": [
+    "Networking Basics/Module 2/2.3 Netowrk Components.md",
+    "Networking Basics/Module 9/9.4 Network Segmentation.md",
+    "Imagesn/88.png",
+    "Imagesn/87.png",
     "Imagesn/86.png",
     "Imagesn/85.png",
     "Imagesn/84.png",
@@ -338,20 +354,15 @@
     "Imagesn/80.png",
     "Imagesn/81.png",
     "Imagesn/79.png",
-    "Networking Basics/Module 2/2.3 Netowrk Components.md",
     "Networking Basics/Module 9/9.2 IPv4 Unicast, Broadcast, Multicast.md",
     "Networking Basics/Module 9/9.1 Learning Objectives.md",
     "Networking Basics/Module 8/8.3 The IPv4 Address Structure.md",
     "Networking Basics/Module 8/8.2 Purpose of an IPv4 Address.md",
     "Networking Basics/Module 8/8.1 Learning Objectives.md",
     "Networking Basics/Module 7/7.2 Encapsulation and Ethernet Frame.md",
-    "Networking Basics/Module 9/9.4 Network Segmentation.md",
     "Networking Basics/Module 9",
     "Networking Basics/Module 8/Connect to a Web Server.pka",
     "Networking Basics/Module 8",
-    "Imagesn/78.png",
-    "Imagesn/77.png",
-    "Imagesn/76.png",
     "Networking Basics/Module 7/7.3 The Access Layer.md",
     "Networking Basics/Module 7/7.1 Learning Objectives.md",
     "Networking Basics/Module 7/3.3 The Access Layer.md",
