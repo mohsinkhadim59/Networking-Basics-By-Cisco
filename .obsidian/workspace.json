@@ -34,17 +34,17 @@
             }
           },
           {
-            "id": "a36f2c8d8e784740",
+            "id": "0da7ac18f6eb3a24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking Basics/Module 9/9.4 Network Segmentation.md",
+                "file": "Networking Basics/Module 9/9.3 Types of IPv4 Addresses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.4 Network Segmentation"
+              "title": "9.3 Types of IPv4 Addresses"
             }
           }
         ],
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "private address",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -339,8 +340,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a36f2c8d8e784740",
+  "active": "0da7ac18f6eb3a24",
   "lastOpenFiles": [
+    "Networking Basics/Module 4/4.2 Home Network Basics.md",
+    "Networking Basics/Module 2/2.3 Netowrk Components.md",
+    "Networking Basics/Module 9/9.4 Network Segmentation.md",
     "Imagesn/Screenshot 2025-11-26 154401.png",
     "Imagesn/91.png",
     "Imagesn/Screenshot 2025-11-26 153620.png",
@@ -348,12 +352,9 @@
     "Imagesn/Screenshot 2025-11-26 153604.png",
     "Imagesn/89.png",
     "Imagesn/Screenshot 2025-11-26 153538.png",
-    "Networking Basics/Module 2/2.3 Netowrk Components.md",
-    "Networking Basics/Module 9/9.4 Network Segmentation.md",
     "Imagesn/88.png",
     "Imagesn/87.png",
     "Imagesn/86.png",
-    "Imagesn/85.png",
     "Networking Basics/Module 9/9.3 Types of IPv4 Addresses.md",
     "Networking Basics/Module 9/9.2 IPv4 Unicast, Broadcast, Multicast.md",
     "Networking Basics/Module 9/9.1 Learning Objectives.md",
@@ -386,7 +387,6 @@
     "Networking Basics/Module 4/4.5 Set Up a Home Router.md",
     "Networking Basics/Module 4/4.4 Wireless Standards .md",
     "Networking Basics/Module 4/4.3 Netowrk Technologies in the Home.md",
-    "Networking Basics/Module 4/4.2 Home Network Basics.md",
     "Untitled.canvas"
   ]
 }
