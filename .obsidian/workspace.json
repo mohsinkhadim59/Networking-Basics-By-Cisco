@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking Basics/Module 9/9.3 Types of IPv4 Addresses.md",
+                "file": "Networking Basics/Module 10/10.3 IPv6  Addressing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.3 Types of IPv4 Addresses"
+              "title": "10.3 IPv6  Addressing"
             }
           }
         ],
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "private address",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +101,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -340,9 +339,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0da7ac18f6eb3a24",
+  "active": "8d1fc3a3b6e57ef2",
   "lastOpenFiles": [
     "Networking Basics/Module 10/10.1 Learning Objectives.md",
+    "Networking Basics/Module 10/10.3 IPv6  Addressing.md",
+    "Networking Basics/Module 10/10.2 IPv4 Issues.md",
+    "Networking Basics/Module 9/9.3 Types of IPv4 Addresses.md",
     "Networking Basics/Module 10/10.1 Learning Objectives",
     "Networking Basics/Module 10",
     "Networking Basics/Module 4/4.2 Home Network Basics.md",
@@ -358,7 +360,6 @@
     "Imagesn/88.png",
     "Imagesn/87.png",
     "Imagesn/86.png",
-    "Networking Basics/Module 9/9.3 Types of IPv4 Addresses.md",
     "Networking Basics/Module 9/9.2 IPv4 Unicast, Broadcast, Multicast.md",
     "Networking Basics/Module 9/9.1 Learning Objectives.md",
     "Networking Basics/Module 8/8.3 The IPv4 Address Structure.md",
@@ -386,8 +387,6 @@
     "Networking Basics/Module 5/5.1 Learning Objectives.md",
     "Networking Basics/Module 2/2.2 Clients and Servers.md",
     "Networking Basics/Module 4/4.5 Set Up a Home Router.md",
-    "Networking Basics/Module 4/4.4 Wireless Standards .md",
-    "Networking Basics/Module 4/4.3 Netowrk Technologies in the Home.md",
     "Untitled.canvas"
   ]
 }
