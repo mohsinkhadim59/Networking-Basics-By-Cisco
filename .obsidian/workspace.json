@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac52ec2c5be2bb44",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Juggl"
-            }
-          },
-          {
             "id": "be045bd618bcc8cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Networking Basics/Module 2/2.3 Netowrk Components.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -45,6 +33,18 @@
               },
               "icon": "lucide-file",
               "title": "9.3 Types of IPv4 Addresses"
+            }
+          },
+          {
+            "id": "4823134888fa2245",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
         ],
@@ -336,12 +336,13 @@
       "command-palette:Open command palette": false,
       "juggl:Juggl global graph": false,
       "obsidian-kanban:Create new board": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "51c7bb06039a1fdc",
+  "active": "4823134888fa2245",
   "lastOpenFiles": [
+    "Networking Basics/Module 9/9.3 Types of IPv4 Addresses.md",
+    "Networking Basics/Module 2/2.3 Netowrk Components.md",
     "Networking Basics/Module 9/9.2 IPv4 Unicast, Broadcast, Multicast.md",
     "Networking Basics/Module 9/9.1 Learning Objectives.md",
     "Networking Basics/Module 8/8.3 The IPv4 Address Structure.md",
@@ -349,7 +350,6 @@
     "Networking Basics/Module 8/8.1 Learning Objectives.md",
     "Networking Basics/Module 7/7.2 Encapsulation and Ethernet Frame.md",
     "Networking Basics/Module 9/9.4 Network Segmentation.md",
-    "Networking Basics/Module 9/9.3 Types of IPv4 Addresses.md",
     "Networking Basics/Module 9",
     "Networking Basics/Module 8/Connect to a Web Server.pka",
     "Networking Basics/Module 8",
@@ -387,7 +387,6 @@
     "Networking Basics/Module 4/4.3 Netowrk Technologies in the Home.md",
     "Networking Basics/Module 4/4.2 Home Network Basics.md",
     "Networking Basics/Module 4/4.1 Learning Objectives.md",
-    "Cheatsheets/Glossary Domain 1 Security Principles.md",
     "Untitled.canvas"
   ]
 }
