@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking Basics/Module 10/10.2 IPv4 Issues.md",
+                "file": "Networking Basics/Module 10/10.3 IPv6  Addressing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.2 IPv4 Issues"
+              "title": "10.3 IPv6  Addressing"
             }
           }
         ],
@@ -353,8 +353,8 @@
   },
   "active": "7f7a54ac30d5c9da",
   "lastOpenFiles": [
-    "Networking Basics/Module 10/10.3 IPv6  Addressing.md",
     "Networking Basics/Module 10/10.2 IPv4 Issues.md",
+    "Networking Basics/Module 10/10.3 IPv6  Addressing.md",
     "Networking Basics/Module 5/5.3 Communication Standards.md",
     "Networking Basics/Module 1/1.4 Bandwidth and Throughput.md",
     "Networking Basics/Module 1/1.3 Data Transmission.md",
