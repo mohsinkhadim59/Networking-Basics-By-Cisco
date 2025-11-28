@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking Basics/Module 10/10.3 IPv6 Addressing.md",
-                "mode": "preview",
+                "file": "Networking Basics/Module 11/11.3 DHCPv4 Configuration.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.3 IPv6 Addressing"
+              "title": "11.3 DHCPv4 Configuration"
             }
           }
         ],
@@ -327,12 +327,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8d1fc3a3b6e57ef2",
+  "active": "7f7a54ac30d5c9da",
   "lastOpenFiles": [
-    "Networking Basics/Module 10/10.3 IPv6  Addressing.md",
+    "Networking Basics/Module 11/11.2 Static and Dynamic Addressing.md",
+    "Networking Basics/Module 2/2.3 Netowrk Components.md",
     "Networking Basics/Module 10/10.3 IPv6 Addressing.md",
-    "Networking Basics/Module 10/10.1 Learning Objectives.md",
+    "Networking Basics/Module 11/11.3 DHCPv4 Configuration.md",
     "Networking Basics/Module 11/11.1 Learning Objectives.md",
+    "Imagesn/100.png",
+    "Imagesn/99.png",
+    "Imagesn/98.png",
+    "Networking Basics/Module 10/10.3 IPv6  Addressing.md",
+    "Networking Basics/Module 10/10.1 Learning Objectives.md",
     "Imagesn/mistake.png",
     "Imagesn/97.png",
     "Networking Basics/Module 11",
@@ -346,14 +352,10 @@
     "Networking Basics/Module 1/1.3 Data Transmission.md",
     "Networking Basics/Module 1/1.2 Network Types.md",
     "Networking Basics/Module 1/1.1 Learning Objectives.md",
-    "Networking Basics/Module 2/2.3 Netowrk Components.md",
     "Imagesn/95.png",
     "Imagesn/Screenshot 2025-11-26 161342.png",
     "Imagesn/94.png",
     "Imagesn/Screenshot 2025-11-26 161310.png",
-    "Imagesn/93.png",
-    "Imagesn/Screenshot 2025-11-26 161244.png",
-    "Imagesn/Screenshot 2025-11-26 161033.png",
     "Networking Basics/Module 10/10.1 Learning Objectives",
     "Networking Basics/Module 10",
     "Networking Basics/Module 4/4.2 Home Network Basics.md",
@@ -370,11 +372,9 @@
     "Networking Basics/Module 7/7.1 Learning Objectives.md",
     "Networking Basics/Module 7/3.3 The Access Layer.md",
     "Networking Basics/Module 3/3.1 Learning Objectives.md",
-    "Networking Basics/Module 6/6.2 Network Media Types.md",
     "Networking Basics/Module 7",
     "Imagesn/Unconfirmed 261972.crdownload",
     "Imagesn/Unconfirmed 3770.crdownload",
-    "Networking Basics/Module 6/6.1 Learning Objectives.md",
     "Untitled.canvas"
   ]
 }
