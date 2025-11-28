@@ -22,30 +22,6 @@
             }
           },
           {
-            "id": "51c7bb06039a1fdc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Juggl"
-            }
-          },
-          {
-            "id": "0da7ac18f6eb3a24",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Juggl"
-            }
-          },
-          {
             "id": "7f7a54ac30d5c9da",
             "type": "leaf",
             "state": {
@@ -60,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -355,6 +331,9 @@
   "lastOpenFiles": [
     "Networking Basics/Module 10/10.2 IPv4 Issues.md",
     "Networking Basics/Module 10/10.3 IPv6  Addressing.md",
+    "Networking Basics/Module 10/10.1 Learning Objectives.md",
+    "Networking Basics/Module 9/9.4 Network Segmentation.md",
+    "Networking Basics/Module 9/9.3 Types of IPv4 Addresses.md",
     "Networking Basics/Module 5/5.3 Communication Standards.md",
     "Networking Basics/Module 1/1.4 Bandwidth and Throughput.md",
     "Networking Basics/Module 1/1.3 Data Transmission.md",
@@ -370,12 +349,9 @@
     "Imagesn/Screenshot 2025-11-26 161033.png",
     "Imagesn/92.png",
     "Imagesn/Screenshot 2025-11-26 161015.png",
-    "Networking Basics/Module 10/10.1 Learning Objectives.md",
-    "Networking Basics/Module 9/9.3 Types of IPv4 Addresses.md",
     "Networking Basics/Module 10/10.1 Learning Objectives",
     "Networking Basics/Module 10",
     "Networking Basics/Module 4/4.2 Home Network Basics.md",
-    "Networking Basics/Module 9/9.4 Network Segmentation.md",
     "Imagesn/Screenshot 2025-11-26 154401.png",
     "Networking Basics/Module 9/9.2 IPv4 Unicast, Broadcast, Multicast.md",
     "Networking Basics/Module 9/9.1 Learning Objectives.md",
