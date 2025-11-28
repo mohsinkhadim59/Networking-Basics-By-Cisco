@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking Basics/Module 10/10.3 IPv6  Addressing.md",
+                "file": "Networking Basics/Module 10/10.3 IPv6 Addressing.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.3 IPv6  Addressing"
+              "title": "10.3 IPv6 Addressing"
             }
           }
         ],
@@ -327,17 +327,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7f7a54ac30d5c9da",
+  "active": "8d1fc3a3b6e57ef2",
   "lastOpenFiles": [
+    "Networking Basics/Module 10/10.3 IPv6  Addressing.md",
+    "Networking Basics/Module 10/10.3 IPv6 Addressing.md",
+    "Networking Basics/Module 10/10.1 Learning Objectives.md",
+    "Networking Basics/Module 11/11.1 Learning Objectives.md",
     "Imagesn/mistake.png",
     "Imagesn/97.png",
-    "Networking Basics/Module 11/11.1 Learning Objectives.md",
-    "Networking Basics/Module 10/10.3 IPv6  Addressing.md",
     "Networking Basics/Module 11",
     "Untitled",
     "Imagesn/96.png",
     "Networking Basics/Module 10/10.2 IPv4 Issues.md",
-    "Networking Basics/Module 10/10.1 Learning Objectives.md",
     "Networking Basics/Module 9/9.4 Network Segmentation.md",
     "Networking Basics/Module 9/9.3 Types of IPv4 Addresses.md",
     "Networking Basics/Module 5/5.3 Communication Standards.md",
@@ -353,7 +354,6 @@
     "Imagesn/93.png",
     "Imagesn/Screenshot 2025-11-26 161244.png",
     "Imagesn/Screenshot 2025-11-26 161033.png",
-    "Imagesn/92.png",
     "Networking Basics/Module 10/10.1 Learning Objectives",
     "Networking Basics/Module 10",
     "Networking Basics/Module 4/4.2 Home Network Basics.md",
