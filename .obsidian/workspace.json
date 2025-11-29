@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking Basics/Module 11/11.3 DHCPv4 Configuration.md",
+                "file": "Networking Basics/Module 04/4.1 Learning Objectives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.3 DHCPv4 Configuration"
+              "title": "4.1 Learning Objectives"
             }
           }
         ]
@@ -312,8 +312,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "be045bd618bcc8cb",
+  "active": "8d1fc3a3b6e57ef2",
   "lastOpenFiles": [
+    "Networking Basics/Module 12/12.1 Learning Objectives.md",
+    "Networking Basics/Module 12/4.1 Learning Objectives.md",
+    "Networking Basics/Module 03/3.1 Learning Objectives.md",
+    "Networking Basics/Module 02/2.1 Learning Objectives.md",
+    "Networking Basics/Module 01/1.1 Learning Objectives.md",
+    "Networking Basics/Module 11/11.3 DHCPv4 Configuration.md",
     "Networking Basics/Module 12/Module 14",
     "Networking Basics/Module 12/Module 13",
     "Networking Basics/Module 12/Module 16",
@@ -328,7 +334,6 @@
     "Networking Basics/Module 09/9.2 IPv4 Unicast, Broadcast, Multicast.md",
     "Networking Basics/Module 09/9.4 Network Segmentation.md",
     "Networking Basics/Module 09/9.1 Learning Objectives.md",
-    "Networking Basics/Module 09",
     "Networking Basics/Module 08/8.3 The IPv4 Address Structure.md",
     "Networking Basics/Module 08/8.2 Purpose of an IPv4 Address.md",
     "Networking Basics/Module 08/8.1 Learning Objectives.md",
@@ -345,11 +350,6 @@
     "Networking Basics/Module 04/4.5 Set Up a Home Router.md",
     "Networking Basics/Module 04/4.3 Netowrk Technologies in the Home.md",
     "Networking Basics/Module 04/4.2 Home Network Basics.md",
-    "Networking Basics/Module 04/4.1 Learning Objectives.md",
-    "Networking Basics/Module 03/3.3 Mobile Device Connectivity.md",
-    "Networking Basics/Module 03/3.2 Wireless Networks.md",
-    "Networking Basics/Module 03/3.1 Learning Objectives.md",
-    "Networking Basics/Module 02/2.4 ISP Connectivity Options.md",
     "Imagesn/100.png",
     "Imagesn/99.png",
     "Imagesn/98.png",
