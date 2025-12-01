@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Networking Basics/Module 12/12.2 Networrk Boundaries.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -314,6 +314,7 @@
   },
   "active": "be045bd618bcc8cb",
   "lastOpenFiles": [
+    "Imagesn/101.png",
     "Networking Basics/Module 12/12.3 Netowrk Address Translation.md",
     "Networking Basics/Module 12/12.1 Learning Objectives.md",
     "Networking Basics/Module 12/12.2 Networrk Boundaries.md",
@@ -350,7 +351,6 @@
     "Networking Basics/Module 12/Module 16",
     "Networking Basics/Module 12/Module 15",
     "Networking Basics/Module 09/9.3 Types of IPv4 Addresses.md",
-    "Networking Basics/Module 09/9.2 IPv4 Unicast, Broadcast, Multicast.md",
     "Imagesn/100.png",
     "Imagesn/99.png",
     "Imagesn/98.png",
