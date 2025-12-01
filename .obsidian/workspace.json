@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dd757e791a3d6f0b",
+        "id": "5099db9d973069db",
         "type": "tabs",
         "children": [
           {
-            "id": "be045bd618bcc8cb",
+            "id": "106e5b52822f5a04",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true,
+              "type": "markdown",
+              "state": {
+                "file": "Networking Basics/Module 12/12.2 Networrk Boundaries.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Juggl"
+              "title": "12.2 Networrk Boundaries"
             }
           }
         ]
@@ -310,8 +312,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "be045bd618bcc8cb",
+  "active": "106e5b52822f5a04",
   "lastOpenFiles": [
+    "Imagesn/102.png",
     "Networking Basics/Module 12/12.2 Networrk Boundaries.md",
     "Imagesn/101.png",
     "Networking Basics/Module 12/12.3 Netowrk Address Translation.md",
