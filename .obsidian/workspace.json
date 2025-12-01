@@ -10,15 +10,13 @@
           {
             "id": "be045bd618bcc8cb",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking Basics/Module 12/12.2 Networrk Boundaries.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "12.2 Networrk Boundaries"
+              "title": "Juggl"
             }
           }
         ]
@@ -314,10 +312,10 @@
   },
   "active": "be045bd618bcc8cb",
   "lastOpenFiles": [
+    "Networking Basics/Module 12/12.2 Networrk Boundaries.md",
     "Imagesn/101.png",
     "Networking Basics/Module 12/12.3 Netowrk Address Translation.md",
     "Networking Basics/Module 12/12.1 Learning Objectives.md",
-    "Networking Basics/Module 12/12.2 Networrk Boundaries.md",
     "Imagesn/mistake2.png",
     "Networking Basics/Module 04/4.1 Learning Objectives.md",
     "Networking Basics/Module 17/17.1 Learning Objectives.md",
@@ -359,7 +357,6 @@
     "Imagesn/96.png",
     "Imagesn/95.png",
     "Imagesn/Screenshot 2025-11-26 161342.png",
-    "Imagesn/94.png",
     "Untitled.canvas"
   ]
 }
