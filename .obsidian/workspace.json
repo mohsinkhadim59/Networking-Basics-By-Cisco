@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking Basics/Module 12/12.1 Learning Objectives.md",
-                "mode": "source",
+                "file": "Networking Basics/Module 12/12.2 Networrk Boundaries.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.1 Learning Objectives"
+              "title": "12.2 Networrk Boundaries"
             }
           }
         ]
@@ -314,6 +314,10 @@
   },
   "active": "be045bd618bcc8cb",
   "lastOpenFiles": [
+    "Networking Basics/Module 12/12.3 Netowrk Address Translation.md",
+    "Networking Basics/Module 12/12.1 Learning Objectives.md",
+    "Networking Basics/Module 12/12.2 Networrk Boundaries.md",
+    "Imagesn/mistake2.png",
     "Networking Basics/Module 04/4.1 Learning Objectives.md",
     "Networking Basics/Module 17/17.1 Learning Objectives.md",
     "Networking Basics/Module 17/16.1 Learning Objectives.md",
@@ -336,7 +340,6 @@
     "Networking Basics/Module 13",
     "Networking Basics/Module 12/Module 13/13.1 Learning Objectives.md",
     "Networking Basics/Module 12/Module 13/12.1 Learning Objectives.md",
-    "Networking Basics/Module 12/12.1 Learning Objectives.md",
     "Networking Basics/Module 12/4.1 Learning Objectives.md",
     "Networking Basics/Module 03/3.1 Learning Objectives.md",
     "Networking Basics/Module 02/2.1 Learning Objectives.md",
@@ -348,8 +351,6 @@
     "Networking Basics/Module 12/Module 15",
     "Networking Basics/Module 09/9.3 Types of IPv4 Addresses.md",
     "Networking Basics/Module 09/9.2 IPv4 Unicast, Broadcast, Multicast.md",
-    "Networking Basics/Module 09/9.4 Network Segmentation.md",
-    "Networking Basics/Module 09/9.1 Learning Objectives.md",
     "Imagesn/100.png",
     "Imagesn/99.png",
     "Imagesn/98.png",
@@ -359,7 +360,6 @@
     "Imagesn/95.png",
     "Imagesn/Screenshot 2025-11-26 161342.png",
     "Imagesn/94.png",
-    "Imagesn/Screenshot 2025-11-26 161310.png",
     "Untitled.canvas"
   ]
 }
