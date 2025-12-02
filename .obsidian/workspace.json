@@ -10,15 +10,27 @@
           {
             "id": "106e5b52822f5a04",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Juggl"
+            }
+          },
+          {
+            "id": "71850f0c1bcf7c38",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking Basics/Module 12/12.2 Networrk Boundaries.md",
-                "mode": "preview",
+                "file": "Networking Basics/Module 12/12.3 Netowrk Address Translation.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.2 Networrk Boundaries"
+              "title": "12.3 Netowrk Address Translation"
             }
           }
         ]
@@ -314,8 +326,8 @@
   },
   "active": "106e5b52822f5a04",
   "lastOpenFiles": [
-    "Imagesn/102.png",
     "Networking Basics/Module 12/12.2 Networrk Boundaries.md",
+    "Imagesn/102.png",
     "Imagesn/101.png",
     "Networking Basics/Module 12/12.3 Netowrk Address Translation.md",
     "Networking Basics/Module 12/12.1 Learning Objectives.md",
@@ -359,7 +371,6 @@
     "Imagesn/97.png",
     "Imagesn/96.png",
     "Imagesn/95.png",
-    "Imagesn/Screenshot 2025-11-26 161342.png",
     "Untitled.canvas"
   ]
 }
