@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14.2 The Need For Routing.md",
+                "file": "14.3 The Routing Table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14.2 The Need For Routing"
+              "title": "14.3 The Routing Table"
             }
           },
           {
@@ -342,6 +342,7 @@
   "active": "0716c62434104c54",
   "lastOpenFiles": [
     "Networking Basics/Module 14/14.1 Learning Objectives.md",
+    "14.3 The Routing Table.md",
     "14.2 The Need For Routing.md",
     "Networking Basics/Module 13/13.3 Broadcast and Containment.md",
     "Networking Basics/Module 13/Assessment.pka",
@@ -386,7 +387,6 @@
     "Networking Basics/Module 12/Module 14/14.1 Learning Objectives.md",
     "Networking Basics/Module 12/Module 14/12.1 Learning Objectives.md",
     "Networking Basics/Module 12/Module 13/13.1 Learning Objectives.md",
-    "Networking Basics/Module 12/Module 13/12.1 Learning Objectives.md",
     "Untitled.canvas"
   ]
 }
