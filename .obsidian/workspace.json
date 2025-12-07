@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Networking Basics/Module 14/14.3 The Routing Table.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -105,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 200
   },
   "right": {
     "id": "f7390f919bb25969",
@@ -361,6 +361,8 @@
   },
   "active": "0716c62434104c54",
   "lastOpenFiles": [
+    "Imagesn/122.png",
+    "Imagesn/121.png",
     "Imagesn/117.png",
     "Imagesn/120.png",
     "Imagesn/119.png",
@@ -377,8 +379,6 @@
     "Imagesn/114.png",
     "Imagesn/113.png",
     "Imagesn/112.png",
-    "Imagesn/111.png",
-    "Imagesn/110.png",
     "Networking Basics/Module 13/13.2 MAC and IP.md",
     "Networking Basics/Module 11/11.3 DHCPv4 Configuration.md",
     "Networking Basics/Module 13/Identify MAC and IP Addresses.pka",
