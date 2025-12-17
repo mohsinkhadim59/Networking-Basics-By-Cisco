@@ -40,7 +40,11 @@
               "type": "markdown",
               "state": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "Networking Basics/Module 15/15.8 Email and Messaging.md",
+=======
+                "file": "Networking Basics/Module 14/14.1 Learning Objectives.md",
+>>>>>>> Stashed changes
 =======
                 "file": "Networking Basics/Module 14/14.1 Learning Objectives.md",
 >>>>>>> Stashed changes
@@ -48,6 +52,7 @@
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
               "title": "15.8 Email and Messaging"
             }
@@ -82,6 +87,13 @@
           }
         ],
         "currentTab": 4
+=======
+              "title": "14.1 Learning Objectives"
+            }
+          }
+        ],
+        "currentTab": 2
+>>>>>>> Stashed changes
 =======
               "title": "14.1 Learning Objectives"
             }
@@ -380,6 +392,7 @@
     }
   },
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "active": "93f37a4ddfca16f3",
   "lastOpenFiles": [
     "Networking Basics/Module 15/15.1 Learning Objectives.md",
@@ -430,6 +443,10 @@
 =======
   "active": "77bc1c442f880735",
   "lastOpenFiles": [
+=======
+  "active": "77bc1c442f880735",
+  "lastOpenFiles": [
+>>>>>>> Stashed changes
     "README.md",
     "Networking Basics/Module 04/4.5 Set Up a Home Router.md",
     "Networking Basics/Module 04/4.3 Netowrk Technologies in the Home.md",
