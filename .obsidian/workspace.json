@@ -39,11 +39,16 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Networking Basics/Module 15/15.8 Email and Messaging.md",
+=======
+                "file": "Networking Basics/Module 14/14.1 Learning Objectives.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "15.8 Email and Messaging"
             }
           },
@@ -77,6 +82,13 @@
           }
         ],
         "currentTab": 4
+=======
+              "title": "14.1 Learning Objectives"
+            }
+          }
+        ],
+        "currentTab": 2
+>>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
@@ -367,6 +379,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
+<<<<<<< Updated upstream
   "active": "93f37a4ddfca16f3",
   "lastOpenFiles": [
     "Networking Basics/Module 15/15.1 Learning Objectives.md",
@@ -414,6 +427,56 @@
     "Networking Basics/Module 04/4.1 Learning Objectives.md",
     "Networking Basics/Module 03/3.3 Mobile Device Connectivity.md",
     "Networking Basics/Module 03/3.2 Wireless Networks.md",
+=======
+  "active": "77bc1c442f880735",
+  "lastOpenFiles": [
+    "README.md",
+    "Networking Basics/Module 04/4.5 Set Up a Home Router.md",
+    "Networking Basics/Module 04/4.3 Netowrk Technologies in the Home.md",
+    "Networking Basics/Module 04/4.2 Home Network Basics.md",
+    "Networking Basics/Module 04/4.1 Learning Objectives.md",
+    "Networking Basics/Module 03/3.3 Mobile Device Connectivity.md",
+    "Networking Basics/Module 03/3.2 Wireless Networks.md",
+    "Networking Basics/Module 03/3.1 Learning Objectives.md",
+    "Networking Basics/Module 02/2.4 ISP Connectivity Options.md",
+    "Networking Basics/Module 02/2.3 Netowrk Components.md",
+    "Networking Basics/Module 02/2.1 Learning Objectives.md",
+    "Networking Basics/Module 01/1.5 Summary.md",
+    "Networking Basics/Module 01/1.4 Bandwidth and Throughput.md",
+    "Networking Basics/Module 01/1.2 Network Types.md",
+    "Networking Basics/Module 01/1.1 Learning Objectives.md",
+    "Networking Basics/Module 12/12.2 Networrk Boundaries.md",
+    "Networking Basics/Module 12/12.1 Learning Objectives.md",
+    "Networking Basics/Module 10/10.3 IPv6 Addressing.md",
+    "Networking Basics/Module 12/12.3 Netowrk Address Translation.md",
+    "Imagesn/102.png",
+    "Imagesn/101.png",
+    "Imagesn/mistake2.png",
+    "Networking Basics/Module 17/17.1 Learning Objectives.md",
+    "Networking Basics/Module 17/16.1 Learning Objectives.md",
+    "Networking Basics/Module 17",
+    "Networking Basics/Module 16 - Copy/16.1 Learning Objectives.md",
+    "Networking Basics/Module 16 - Copy",
+    "Networking Basics/Module 16/16.1 Learning Objectives.md",
+    "Networking Basics/Module 16",
+    "Networking Basics/Module 12/Module 16/16.1 Learning Objectives.md",
+    "Networking Basics/Module 12/Module 16/12.1 Learning Objectives.md",
+    "Networking Basics/Module 15/15.1 Learning Objectives.md",
+    "Networking Basics/Module 15",
+    "Networking Basics/Module 14",
+    "Networking Basics/Module 13",
+    "Networking Basics/Module 12/Module 14",
+    "Networking Basics/Module 12/Module 13",
+    "Networking Basics/Module 12/Module 16",
+    "Networking Basics/Module 12/Module 15",
+    "Imagesn/100.png",
+    "Imagesn/99.png",
+    "Imagesn/98.png",
+    "Imagesn/mistake.png",
+    "Imagesn/97.png",
+    "Imagesn/96.png",
+    "Imagesn/95.png",
+>>>>>>> Stashed changes
     "Untitled.canvas"
   ]
 }
