@@ -8,55 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71850f0c1bcf7c38",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Juggl"
-            }
-          },
-          {
             "id": "77bc1c442f880735",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking Basics/Module 15/15.8 Email and Messaging.md",
+                "file": "Networking Basics/Module 15/15.5 Web and Client Servers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15.8 Email and Messaging"
-            }
-          },
-          {
-            "id": "346ccb860e355806",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking Basics/Module 15/15.3 Netowrk Applicaion Services.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "15.3 Netowrk Applicaion Services"
-            }
-          },
-          {
-            "id": "93f37a4ddfca16f3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "juggl_view"
+              "title": "15.5 Web and Client Servers"
             }
           }
         ]
@@ -116,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 318.5
   },
   "right": {
     "id": "f7390f919bb25969",
@@ -341,28 +302,30 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "71850f0c1bcf7c38",
+  "active": "77bc1c442f880735",
   "lastOpenFiles": [
-    "Networking Basics/Module 12/12.3 Netowrk Address Translation.md",
+    "Networking Basics/Module 15/15.4 Domain Name System.md",
+    "Imagesn/137.png",
+    "Imagesn/Screenshot 2025-12-18 121721.png",
+    "Imagesn/136.png",
+    "Imagesn/Screenshot 2025-12-18 121612.png",
+    "Imagesn/135.png",
+    "Imagesn/Screenshot 2025-12-18 121549.png",
+    "Imagesn/134.png",
+    "Imagesn/Screenshot 2025-12-18 121514.png",
+    "Imagesn/133.png",
+    "Imagesn/Screenshot 2025-12-18 121445.png",
+    "Networking Basics/Module 15/15.5 Web and Client Servers.md",
     "Networking Basics/Module 15/15.3 Netowrk Applicaion Services.md",
-    "Imagesn/Screenshot 2025-12-17 162745.png",
-    "Imagesn/128.png",
-    "Imagesn/Screenshot 2025-12-17 162730.png",
+    "Networking Basics/Module 15/15.8 Email and Messaging.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Networking Basics/Module 12/12.3 Netowrk Address Translation.md",
     "Networking Basics/Module 15/15.2 The Client Server Relationship.md",
     "Networking Basics/Module 15/The Client Interaction.pka",
-    "Imagesn/127.png",
-    "Imagesn/Screenshot 2025-12-17 155623.png",
     "Networking Basics/Module 15/15.1 Learning Objectives.md",
-    "Imagesn/Screenshot 2025-12-16 174637.png",
-    "Imagesn/Screenshot 2025-12-16 174549.png",
-    "Imagesn/126.png",
-    "Imagesn/Screenshot 2025-12-16 174353.png",
-    "Imagesn/Screenshot 2025-12-16 174048.png",
-    "Networking Basics/Module 15/15.4 Domain Name System.md",
-    "Networking Basics/Module 15/15.8 Email and Messaging.md",
     "Networking Basics/Module 15/15.7 Virutal Terminals.md",
     "Networking Basics/Module 15/15.6 FTP Client and Servers.md",
-    "Networking Basics/Module 15/15.5 Web and Client Servers.md",
     "Networking Basics/Module 14/14.4 Create A LAN.md",
     "Networking Basics/Module 14/Create a LAN.pka~",
     "GithubWidget_Update/SETTINGS.md",
@@ -372,8 +335,6 @@
     "GithubWidget_Update/gradle/wrapper/gradle-wrapper.properties",
     "GithubWidget_Update/gradle/wrapper/gradle-wrapper.jar",
     "GithubWidget_Update/gradle/wrapper",
-    "GithubWidget_Update/gradle",
-    "GithubWidget_Update/gradle.properties",
     "GithubWidget_Update/README.md",
     "GithubWidget_Update/README-ZH.md",
     "Networking Basics/Module 14/14.3 The Routing Table.md",
@@ -388,7 +349,6 @@
     "Networking Basics/Module 04/4.2 Home Network Basics.md",
     "Networking Basics/Module 04/4.1 Learning Objectives.md",
     "Networking Basics/Module 03/3.3 Mobile Device Connectivity.md",
-    "Networking Basics/Module 03/3.2 Wireless Networks.md",
     "Untitled.canvas"
   ]
 }
