@@ -1,3 +1,11 @@
+
+
+
+>[! Notes] 
+>- This md file contains all the necessary commands that are learnt throughout this course.
+
+
+
 ```dataviewjs
 let pages = dv.pages().where(p => /^\d+(\.\d+)*\s+.+$/i.test(p.file.name));
 let merged = new Map();
