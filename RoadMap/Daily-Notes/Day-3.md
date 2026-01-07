@@ -114,5 +114,5 @@ strings <filename> | grep ===
  
  
 [Cheatsheet-Tree](Cheatsheet-Tree.md) 🔗
-[Cheatsheet-Global](Cheatsheet-Linux.md) 🔗
-[Cheatsheet-Linux](Cheatsheet-Linux.md) 🔗
+[Cheatsheet-Global](Cheatsheet-Networking.md) 🔗
+[Cheatsheet-Networking](Cheatsheet-Networking.md) 🔗

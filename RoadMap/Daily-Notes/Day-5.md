@@ -53,6 +53,6 @@
 
 
 
-[Cheatsheet-Linux](Cheatsheet-Linux.md) 🔗
+[Cheatsheet-Networking](Cheatsheet-Networking.md) 🔗
 [Cheatsheet-SSH](Cheatsheet-SSH.md)🔗
 [Cheatsheet-Global](Cheatsheet-Global.md)🔗

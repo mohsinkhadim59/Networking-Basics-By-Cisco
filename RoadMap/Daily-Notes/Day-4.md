@@ -97,6 +97,6 @@ The password is IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
 > ROT13 is a simple substitution cipher that shifts each letter **13 places forward in the alphabet**, wrapping around at Z. [ROT13](https://en.wikipedia.org/wiki/ROT13)
 > ![ROT13 Depiction](img.png)
 
-[Cheatsheet-Linux](Cheatsheet-Linux.md) 🔗
+[Cheatsheet-Networking](Cheatsheet-Networking.md) 🔗
 [Cheatsheet-SSH](Cheatsheet-SSH.md)🔗
 [Cheatsheet-Global](Cheatsheet-Global.md)🔗
