@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking Basics/Module 15/15.8 Email and Messaging.md",
+                "file": "Networking Basics/Module 17/17.2 Troubleshooting Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15.8 Email and Messaging"
+              "title": "17.2 Troubleshooting Commands"
             }
           },
           {
@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking Basics/Module 13/13.2 MAC and IP.md",
+                "file": "Networking Basics/Module 17/17.2 Troubleshooting Commands.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.2 MAC and IP"
+              "title": "17.2 Troubleshooting Commands"
             }
           },
           {
@@ -359,26 +359,29 @@
   },
   "active": "74bf151a6930b542",
   "lastOpenFiles": [
-    "Imagesn/149.png",
-    "Imagesn/Screenshot 2026-01-08 164438.png",
-    "Imagesn/148.png",
-    "Imagesn/148+.png",
-    "Imagesn/Screenshot 2026-01-08 164418.png",
+    "Imagesn/154.png",
+    "Imagesn/Screenshot 2026-01-10 132802.png",
+    "Imagesn/153.png",
+    "Imagesn/Screenshot 2026-01-10 132743.png",
+    "Networking Basics/Module 17/Use the ipconfig Command.pka",
+    "Networking Basics/Module 13/13.2 MAC and IP.md",
+    "Cheatsheets/Cheatsheet-Networking.md",
+    "Networking Basics/Module 17/17.2 Troubleshooting Commands.md",
+    "Networking Basics/Module 15/15.4 Domain Name System.md",
+    "Imagesn/152.png",
+    "Imagesn/Screenshot 2026-01-10 125611.png",
+    "Imagesn/151.png",
+    "Imagesn/Screenshot 2026-01-10 125555.png",
+    "Imagesn/150.png",
+    "Imagesn/Screenshot 2026-01-10 125534.png",
+    "Networking Basics/Module 17/17.1 Learning Objectives.md",
+    "Networking Basics/Module 15/15.8 Email and Messaging.md",
     "Networking Basics/Module 15/15.7 Virutal Terminals.md",
     "Networking Basics/Module 15/15.6 FTP Client and Servers.md",
-    "Networking Basics/Module 15/15.8 Email and Messaging.md",
-    "Imagesn/147.png",
-    "Imagesn/Screenshot 2026-01-08 162722.png",
-    "Imagesn/146.png",
-    "Imagesn/Screenshot 2026-01-08 162703.png",
-    "Imagesn/145.png",
-    "Imagesn/Screenshot 2026-01-08 162642.png",
     "Networking Basics/Module 15/15.5 Web and Client Servers.md",
+    "Imagesn/Screenshot 2026-01-09 034024.png",
     "Networking Basics/Module 15/15.1 Learning Objectives.md",
     "Networking Basics/Module 15/Use FTP Services.pka",
-    "Cheatsheets/Cheatsheet-Networking.md",
-    "Networking Basics/Module 13/13.2 MAC and IP.md",
-    "Networking Basics/Module 15/15.4 Domain Name System.md",
     "Networking Basics/Module 15/Use Telnet and SSH.pka",
     "Networking Basics/Module 16/16.1 Learning Objectives.md",
     "Networking Basics/Module 13/13.1 Learning Objectives.md",
@@ -402,9 +405,6 @@
     "Networking Basics/Module 15/The Client Interaction.pka",
     "Networking Basics/Module 14/14.4 Create A LAN.md",
     "Networking Basics/Module 14/Create a LAN.pka~",
-    "GithubWidget_Update/SETTINGS.md",
-    "GithubWidget_Update/settings.gradle",
-    "GithubWidget_Update/README.md",
     "Untitled.canvas"
   ]
 }
