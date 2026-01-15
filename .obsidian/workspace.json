@@ -15,8 +15,8 @@
               "type": "juggl_view",
               "state": {},
               "pinned": true,
-              "icon": "lucide-file",
-              "title": "Juggl"
+              "icon": "lucide-ghost",
+              "title": "juggl_view"
             }
           },
           {
@@ -40,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "Networking Basics/Module 17/17.2 Troubleshooting Commands.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -67,16 +67,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheatsheets/Cheatsheet-Networking.md",
+                "file": "Networking Basics/Module 14/14.4 Create A LAN.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cheatsheet-Networking"
+              "title": "14.4 Create A LAN"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 245.5
   },
   "right": {
     "id": "f7390f919bb25969",
@@ -357,8 +357,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "74bf151a6930b542",
+  "active": "51fba75764e40870",
   "lastOpenFiles": [
+    "Networking Basics/Module 15/15.4 Domain Name System.md",
+    "Networking Basics/Module 17/17.2 Troubleshooting Commands.md",
+    "Imagesn/Screenshot 2026-01-15 115904.png",
+    "Imagesn/Screenshot 2026-01-15 115807.png",
+    "Cheatsheets/Cheatsheet-Networking.md",
+    "Networking Basics/Module 17/Use the ping Command.pka",
+    "Networking Basics/Module 17/Use the ping Command (1).pka",
+    "Networking Basics/Module 17/17.1 Learning Objectives.md",
     "Imagesn/Screenshot 2026-01-12 113554.png",
     "Imagesn/154.png",
     "Imagesn/Screenshot 2026-01-10 132802.png",
@@ -366,16 +374,9 @@
     "Imagesn/Screenshot 2026-01-10 132743.png",
     "Networking Basics/Module 17/Use the ipconfig Command.pka",
     "Networking Basics/Module 13/13.2 MAC and IP.md",
-    "Cheatsheets/Cheatsheet-Networking.md",
-    "Networking Basics/Module 17/17.2 Troubleshooting Commands.md",
-    "Networking Basics/Module 15/15.4 Domain Name System.md",
     "Imagesn/152.png",
     "Imagesn/Screenshot 2026-01-10 125611.png",
     "Imagesn/151.png",
-    "Imagesn/Screenshot 2026-01-10 125555.png",
-    "Imagesn/150.png",
-    "Imagesn/Screenshot 2026-01-10 125534.png",
-    "Networking Basics/Module 17/17.1 Learning Objectives.md",
     "Networking Basics/Module 15/15.8 Email and Messaging.md",
     "Networking Basics/Module 15/15.7 Virutal Terminals.md",
     "Networking Basics/Module 15/15.6 FTP Client and Servers.md",
@@ -402,9 +403,7 @@
     "Cheatsheets/Glossary Domain 1 Security Principles.md",
     "RoadMap/Daily-Notes/Day-1.md",
     "Networking Basics/Module 12/12.3 Netowrk Address Translation.md",
-    "Networking Basics/Module 15/The Client Interaction.pka",
     "Networking Basics/Module 14/14.4 Create A LAN.md",
-    "Networking Basics/Module 14/Create a LAN.pka~",
     "Untitled.canvas"
   ]
 }
