@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking Basics/Module 16/16.3 Port Numbers.md",
+                "file": "Networking Basics/Module 16/16.1 Learning Objectives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16.3 Port Numbers"
+              "title": "16.1 Learning Objectives"
             }
           }
         ],
@@ -385,11 +385,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8d1fc3a3b6e57ef2",
+  "active": "51decb984f975344",
   "lastOpenFiles": [
+    "Networking Basics/Module 16/16.2 TCP and UDP.md",
     "Networking Basics/Module 16/16.3 Port Numbers.md",
     "Networking Basics/Module 16/16.1 Learning Objectives.md",
-    "Networking Basics/Module 16/16.2 TCP and UDP.md",
     "Networking Basics/Module 14/14.4 Create A LAN.md",
     "Networking Basics/Module 15/15.4 Domain Name System.md",
     "Networking Basics/Module 17/17.2 Troubleshooting Commands.md",
