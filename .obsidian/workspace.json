@@ -53,44 +53,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking Basics/Module 17/17.2 Troubleshooting Commands.md",
+                "file": "Networking Basics/Module 06/6.2 Network Media Types.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17.2 Troubleshooting Commands"
-            }
-          },
-          {
-            "id": "51fba75764e40870",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking Basics/Module 16/16.3 Port Numbers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "16.3 Port Numbers"
-            }
-          },
-          {
-            "id": "51decb984f975344",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking Basics/Module 16/16.3 Port Numbers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "16.3 Port Numbers"
+              "title": "6.2 Network Media Types"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -371,54 +343,53 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "51decb984f975344",
+  "active": "4b327100edc96d11",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Networking Basics/Module 17/17.2 Troubleshooting Commands.md",
+    "Networking Basics/Module 06/6.2 Network Media Types.md",
+    "Imagesn/55.jpeg",
     "Networking Basics/Module 16/16.3 Port Numbers.md",
-    "Networking Basics/Module 16/16.1 Learning Objectives.md",
+    "Networking Basics/Module 06/6.2 Network Media Types.md.tmp.81440.1768673073086",
+    "Networking Basics/Module 09/9.4 Network Segmentation.md",
+    "Networking Basics/Module 09/9.2 IPv4 Unicast, Broadcast, Multicast.md",
+    "Networking Basics/Module 01/1.3 Data Transmission.md",
+    "Networking Basics/Module 02/2.3 Netowrk Components.md",
+    "Networking Basics/Module 02/2.2 Clients and Servers.md",
+    "Networking Basics/Module 02/2.1 Learning Objectives.md",
+    "Networking Basics/Module 01/1.2 Network Types.md",
+    "Networking Basics/Module 15/15.5 Web and Client Servers.md",
+    "Networking Basics/Module 17/17.2 Troubleshooting Commands.md.tmp.81440.1768672680940",
+    "Networking Basics/Module 16/16.3 Port Numbers.md.tmp.81440.1768672675269",
+    "Networking Basics/Module 15/15.8 Email and Messaging.md.tmp.81440.1768672672620",
+    "Networking Basics/Module 15/15.3 Netowrk Applicaion Services.md",
+    "Networking Basics/Module 15/15.2 The Client Server Relationship.md",
+    "Networking Basics/Module 14/14.4 Create A LAN.md",
+    "Networking Basics/Module 15/15.5 Web and Client Servers.md.tmp.81440.1768672628964",
+    "Networking Basics/Module 15/15.5 Web and Client Servers.md.tmp.81440.1768672627858",
+    "Networking Basics/Module 14/14.3 The Routing Table.md",
+    "Networking Basics/Module 14/14.4 Create A LAN.md.tmp.81440.1768672596968",
+    "Networking Basics/Module 14/14.3 The Routing Table.md.tmp.81440.1768672592976",
+    "Networking Basics/Module 14/14.3 The Routing Table.md.tmp.81440.1768672589270",
+    "Networking Basics/Module 14/14.3 The Routing Table.md.tmp.81440.1768672587955",
+    "Networking Basics/Module 13/13.2 MAC and IP.md",
+    "Networking Basics/Module 07/7.2 Encapsulation and Ethernet Frame.md",
+    "Networking Basics/Module 07/7.1 Learning Objectives.md",
+    "Networking Basics/Module 10/10.3 IPv6 Addressing.md",
+    "Networking Basics/Module 10/10.2 IPv4 Issues.md",
+    "Networking Basics/Module 04/4.5 Set Up a Home Router.md",
+    "Networking Basics/Module 04/4.4 Wireless Standards .md",
+    "Networking Basics/Module 03/3.3 Mobile Device Connectivity.md",
+    "Networking Basics/Module 03/3.2 Wireless Networks.md",
+    "Networking Basics/Module 03/3.1 Learning Objectives.md",
     "Imagesn/157.png",
     "Imagesn/156.png",
-    "Networking Basics/Module 16/16.2 TCP and UDP.md",
     "Imagesn/155.png",
-    "Networking Basics/Module 15/15.6 FTP Client and Servers.md",
-    "Networking Basics/Module 15/15.8 Email and Messaging.md",
-    "Networking Basics/Module 14/14.4 Create A LAN.md",
-    "Networking Basics/Module 15/15.4 Domain Name System.md",
-    "Networking Basics/Module 17/17.2 Troubleshooting Commands.md",
     "Imagesn/Screenshot 2026-01-15 115904.png",
     "Imagesn/Screenshot 2026-01-15 115807.png",
-    "Cheatsheets/Cheatsheet-Networking.md",
-    "Networking Basics/Module 17/Use the ping Command.pka",
-    "Networking Basics/Module 17/Use the ping Command (1).pka",
-    "Networking Basics/Module 17/17.1 Learning Objectives.md",
     "Imagesn/Screenshot 2026-01-12 113554.png",
     "Imagesn/154.png",
     "Imagesn/Screenshot 2026-01-10 132802.png",
     "Imagesn/153.png",
-    "Imagesn/Screenshot 2026-01-10 132743.png",
-    "Networking Basics/Module 17/Use the ipconfig Command.pka",
-    "Networking Basics/Module 13/13.2 MAC and IP.md",
-    "Networking Basics/Module 15/15.7 Virutal Terminals.md",
-    "Networking Basics/Module 15/15.5 Web and Client Servers.md",
-    "Networking Basics/Module 15/15.1 Learning Objectives.md",
-    "Networking Basics/Module 15/Use FTP Services.pka",
-    "Networking Basics/Module 15/Use Telnet and SSH.pka",
-    "Networking Basics/Module 13/13.1 Learning Objectives.md",
-    "Networking Basics/Module 05/5.4 Network Communication Models.md",
-    "Networking Basics/Module 09/9.4 Network Segmentation.md",
-    "VLANs.pdf",
-    "Table of Contents.base",
-    "Untitled 1.base",
-    "Untitled.base",
-    "README.md",
-    "RoadMap/Cover/Cover.md",
-    "RoadMap/Cover/Phase-MAP.md",
-    "Networking Basics/Module 15/15.2 The Client Server Relationship.md",
-    "Networking Basics/Module 15/Observe Web Requests.pka",
-    "Networking Basics/Module 15/15.3 Netowrk Applicaion Services.md",
-    "Cheatsheets/Cheatsheet-Global.md",
-    "RoadMap/Daily-Notes/Day-5.md",
-    "Cheatsheets/Glossary Domain 1 Security Principles.md",
     "Untitled.canvas"
   ]
 }
