@@ -99,6 +99,7 @@ Networking-Basics-By-Cisco/
 ### What's Included
 
 - **76 Markdown files** with detailed notes and explanations
+- **17 Anki flashcard decks** (.apkg files) with 500+ spaced repetition cards
 - **15 Cisco Packet Tracer labs** (.pka files) with hands-on exercises
 - **100+ images** and network diagrams for visual learning
 - **Dynamic cheatsheet** that aggregates commands from all modules
@@ -129,6 +130,7 @@ After completing this course you will be able to:
 - Basic computer literacy (file navigation, command prompt/terminal usage)
 - **Cisco Packet Tracer** – If you haven't used it before, [take this short course](https://www.netacad.com/courses/getting-started-cisco-packet-tracer?courseLang=en-US)
   - You can also check out the [Cisco Packet Tracer notes](Cisco%20Packet%20Tracer/) included in this repository
+- **Anki** (recommended for flashcard study) – [Download here](https://apps.ankiweb.net/)
 - Internet connection for downloading labs and resources
 - **Obsidian** (optional but recommended) – [Download here](https://obsidian.md/download)
 
@@ -216,24 +218,133 @@ This repository includes 15 Cisco Packet Tracer labs distributed across modules:
 
 ---
 
+## Anki Flashcards
+
+This repository includes **17 Anki flashcard decks** (one for each module) with a total of **500+ flashcards** designed to help you retain networking concepts through spaced repetition learning.
+
+### What's Included
+
+Each module folder contains a `Module XX.apkg` file with:
+- **Fill-in-the-blank questions** for active recall
+- **Answer + Explanation format** for deeper understanding
+- **20-38 flashcards per module** covering key concepts
+- **Clean, readable design** with white text on dark background
+
+### Getting Started with Anki
+
+#### 1. Download Anki
+
+Anki is a free, open-source flashcard application that uses spaced repetition to optimize learning.
+
+- **Desktop (Windows/Mac/Linux)**: [https://apps.ankiweb.net/](https://apps.ankiweb.net/)
+- **Android**: [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki) (Free)
+- **iOS**: [AnkiMobile](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) (Paid, $24.99)
+
+#### 2. Import Flashcard Decks
+
+**Option A - Import Individual Modules:**
+1. Open Anki on your device
+2. Click **File → Import** (or press `Ctrl+Shift+I`)
+3. Navigate to the module folder (e.g., `Networking Basics/Module 01/`)
+4. Select the `.apkg` file (e.g., `Module 01.apkg`)
+5. Click **Open** to import
+6. Repeat for other modules you want to study
+
+**Option B - Import All Modules at Once:**
+1. Select all `.apkg` files from multiple module folders
+2. Drag and drop them into the Anki window
+3. Anki will import all decks automatically
+
+#### 3. Start Studying
+
+1. Click on a deck name (e.g., "Networking Basics - Module 01")
+2. Click **Study Now**
+3. Read each question and try to recall the answer
+4. Click **Show Answer** to reveal the answer and explanation
+5. Rate how well you knew the answer:
+   - **Again** - You didn't know it (card will appear again soon)
+   - **Hard** - You struggled to recall (shorter interval)
+   - **Good** - You knew it (normal interval)
+   - **Easy** - You knew it perfectly (longer interval)
+
+#### 4. Sync Across Devices (Optional)
+
+Keep your study progress synchronized across all your devices:
+
+1. **Create a Free AnkiWeb Account**
+   - Visit [https://ankiweb.net/account/register](https://ankiweb.net/account/register)
+   - Sign up with your email
+
+2. **Link Your Desktop Anki to AnkiWeb**
+   - Open Anki on your computer
+   - Click the **Sync** button (top right)
+   - Enter your AnkiWeb credentials
+   - Click **Upload** to send your decks to AnkiWeb
+
+3. **Sync on Mobile Devices**
+   - Open AnkiDroid (Android) or AnkiMobile (iOS)
+   - Go to **Settings → AnkiWeb Account**
+   - Enter your AnkiWeb credentials
+   - Tap **Sync** to download your decks
+
+4. **Keep Everything in Sync**
+   - Always click **Sync** before and after studying
+   - Your progress, new cards, and reviews will sync automatically
+   - Works across unlimited devices with one free account
+
+### Study Tips
+
+- **Daily Reviews**: Study for 15-20 minutes each day for best retention
+- **Complete Reviews**: Always finish your daily reviews before learning new cards
+- **Module Progression**: Import new module decks as you complete the corresponding course material
+- **Customize Settings**: Adjust daily new card limits in deck options (default: 20 cards/day)
+- **Use Explanations**: Don't just memorize - read the explanations to understand the concepts
+
+### Flashcard Coverage by Module
+
+| Module | Deck Name | Cards | Key Topics |
+|--------|-----------|-------|------------|
+| 01 | Communication in a Connected World | 26 | Network types, data transmission, bandwidth |
+| 02 | Network Components, Types and Connections | 25 | Clients/servers, P2P, ISP connectivity |
+| 03 | Wireless Networks and Mobile Networks | 28 | Wi-Fi, wireless standards, security |
+| 04 | Build a Home Network | 30 | Router setup, wireless configuration |
+| 05 | Communications Principles | 38 | Protocols, standards, OSI/TCP-IP models |
+| 06 | Network Media | 30 | Copper, fiber, wireless media |
+| 07 | The Access Layer | 30 | Ethernet, encapsulation, MAC addresses |
+| 08 | The Internet Protocol | 30 | IPv4 addressing, binary conversion |
+| 09 | The IPv4 and Network Segmentation | 30 | Subnetting, broadcast domains |
+| 10 | The IPv6 Addressing Formats and Rules | 31 | IPv6 structure, address types |
+| 11 | Dynamic Addressing with DHCP | 30 | DHCP configuration, address assignment |
+| 12 | Gateways to Other Networks | 30 | NAT, default gateway, routing |
+| 13 | The ARP Process | 30 | ARP protocol, MAC-to-IP mapping |
+| 14 | Routing Between Networks | 30 | Routing tables, LAN design |
+| 15 | Application Layer Services | 30 | DNS, HTTP, FTP, email protocols |
+| 16 | TCP and UDP | 30 | Transport protocols, port numbers |
+| 17 | Network Testing Utilities | 30 | ipconfig, ping, traceroute |
+
+---
+
 ## How to Use This Repository
 
 1. **Start with the RoadMap** – Review [Phase-MAP.md](RoadMap/Cover/Phase-MAP.md) for course overview and learning outcomes
 2. **Follow Module Sequence** – Work through modules 01-17 in order for a progressive learning experience
 3. **Complete Labs** – Each module with a lab includes a `.pka` file; open it with Cisco Packet Tracer
-4. **Use the Cheatsheet** – Reference [Cheatsheet-Networking.md](Cheatsheets/Cheatsheet-Networking.md) for quick command lookup
-5. **Study with Obsidian** – Leverage bidirectional links, graph view, and search for optimal learning
+4. **Study with Anki Flashcards** – Import the `.apkg` files into Anki for spaced repetition learning (see [Anki Flashcards](#anki-flashcards) section below)
+5. **Use the Cheatsheet** – Reference [Cheatsheet-Networking.md](Cheatsheets/Cheatsheet-Networking.md) for quick command lookup
+6. **Study with Obsidian** – Leverage bidirectional links, graph view, and search for optimal learning
 
 ---
 
 ## Features
 
 - **Structured Learning Path** – 17 modules covering fundamentals to troubleshooting
+- **Spaced Repetition Learning** – 500+ Anki flashcards for long-term retention
 - **Hands-On Practice** – 15 Packet Tracer labs with real network scenarios
 - **Visual Learning** – 100+ diagrams and screenshots
 - **Dynamic Reference** – Auto-generated cheatsheet with commands from all modules
 - **Obsidian Integration** – Wiki-style linking, graph view, and powerful search
 - **GitHub Integration** – Version control, automated TOC generation
+- **Multi-Device Sync** – Study flashcards anywhere with AnkiWeb synchronization
 - **MIT Licensed** – Free to use, modify, and share
 
 ---
@@ -242,6 +353,7 @@ This repository includes 15 Cisco Packet Tracer labs distributed across modules:
 
 - **Cisco Networking Basics** – [NetAcad Curriculum](https://www.netacad.com/launch?id=f393c38f-b410-4d2b-8275-70e144273519&tab=curriculum&view=ae8638aa-428f-5d03-b275-742d5f1b805c)
 - **Cisco Packet Tracer** – [Download & Get Started](https://www.netacad.com/courses/getting-started-cisco-packet-tracer?courseLang=en-US)
+- **Anki** – [Download Anki](https://apps.ankiweb.net/) | [Anki Manual](https://docs.ankiweb.net/) | [AnkiWeb (Sync Service)](https://ankiweb.net/)
 - **Obsidian Documentation** – [Help Vault](https://help.obsidian.md/)
 
 ---
