@@ -1,7 +1,7 @@
 
 
 
->[!notes] 
+>[!tip] 
 >- This md file contains all the necessary commands that are learnt throughout this course and this uses `Dataviewjs` so basically when you open the entire repository as vault inside the obsidian it will show you a entire commands used throughout this course alongwith description and the module in which the command was used.
 
 
