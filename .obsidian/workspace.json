@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking Basics/Module 06/6.2 Network Media Types.md",
+                "file": "Cisco Packet Tracer/1.4 GUI and CLI Configuration.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.2 Network Media Types"
+              "title": "1.4 GUI and CLI Configuration"
             }
           }
         ],
@@ -345,8 +345,9 @@
   },
   "active": "4b327100edc96d11",
   "lastOpenFiles": [
-    "Networking Basics/Module 17/17.2 Troubleshooting Commands.md",
+    "Cisco Packet Tracer/1.2 User Interface of Cisco.md",
     "Networking Basics/Module 06/6.2 Network Media Types.md",
+    "Networking Basics/Module 17/17.2 Troubleshooting Commands.md",
     "Imagesn/55.jpeg",
     "Networking Basics/Module 16/16.3 Port Numbers.md",
     "Networking Basics/Module 06/6.2 Network Media Types.md.tmp.81440.1768673073086",
