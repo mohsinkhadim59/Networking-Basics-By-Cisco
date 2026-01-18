@@ -1,47 +1,12 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [Networking Basics](#networking-basics)
-  - [Course Purpose](#course-purpose)
-  - [Repository Structure](#repository-structure)
-    - [What's Included](#whats-included)
-  - [Learning Outcomes](#learning-outcomes)
-  - [Prerequisites](#prerequisites)
-  - [Getting Started](#getting-started)
-    - [Option 1: Use with Obsidian (Recommended)](#option-1-use-with-obsidian-recommended)
-    - [Option 2: Browse on GitHub](#option-2-browse-on-github)
-  - [Course Modules](#course-modules)
-  - [Hands-On Labs](#hands-on-labs)
-  - [Anki Flashcards](#anki-flashcards)
-    - [What's Included](#whats-included-1)
-    - [Getting Started with Anki](#getting-started-with-anki)
-      - [1. Download Anki](#1-download-anki)
-      - [2. Import Flashcard Decks](#2-import-flashcard-decks)
-      - [3. Start Studying](#3-start-studying)
-      - [4. Sync Across Devices (Optional)](#4-sync-across-devices-optional)
-    - [Study Tips](#study-tips)
-    - [Flashcard Coverage by Module](#flashcard-coverage-by-module)
-  - [How to Use This Repository](#how-to-use-this-repository)
-  - [Features](#features)
-  - [Learning Resources](#learning-resources)
-  - [System Requirements](#system-requirements)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
-  - [Next Steps](#next-steps)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # Networking Basics
 
-![Status](https://img.shields.io/badge/Status-Complete-success?style=flat-square&labelColor=555)
-![Modules](https://img.shields.io/badge/Modules-17-blue?style=flat-square&labelColor=555)
-![Flashcards](https://img.shields.io/badge/Flashcards-500+-brightgreen?style=flat-square&labelColor=555)
-![Labs](https://img.shields.io/badge/Labs-15-orange?style=flat-square&labelColor=555)
-![Last Commit](https://img.shields.io/github/last-commit/mohsinkhadim59/Networking-Basics-By-Cisco?style=flat-square&label=Updated&labelColor=555&color=red)
-![License](https://img.shields.io/github/license/mohsinkhadim59/Networking-Basics-By-Cisco?style=flat-square&label=License&labelColor=555&color=yellow)
-![Views](https://komarev.com/ghpvc/?username=mohsinkhadim59&repo=Networking-Basics-By-Cisco&style=flat-square&label=Views&color=blueviolet)
+![Status](https://img.shields.io/badge/Status-Complete-success?style=flat&labelColor=555)
+![Modules](https://img.shields.io/badge/Modules-17-blue?style=flat&labelColor=555)
+![Flashcards](https://img.shields.io/badge/Flashcards-500+-brightgreen?style=flat&labelColor=555)
+![Labs](https://img.shields.io/badge/Labs-15-orange?style=flat&labelColor=555)
+![Last Commit](https://img.shields.io/github/last-commit/mohsinkhadim59/Networking-Basics-By-Cisco?style=flat&label=Updated&labelColor=555&color=red)
+![License](https://img.shields.io/github/license/mohsinkhadim59/Networking-Basics-By-Cisco?style=flat&label=License&labelColor=555&color=yellow)
+![Views](https://komarev.com/ghpvc/?username=mohsinkhadim59&repo=Networking-Basics-By-Cisco&style=flat&label=Views&color=blueviolet)
 
 A comprehensive Obsidian vault containing structured notes, practical labs, and reference materials for Cisco's Networking Basics course. This repository provides an organized, hands-on approach to mastering fundamental networking concepts essential for IT professionals, cybersecurity enthusiasts, and anyone building a career in technology.
 
