@@ -35,13 +35,13 @@
 
 # Networking Basics
 
-![Status](https://img.shields.io/badge/STATUS-COMPLETE-success?style=for-the-badge)
-![Modules](https://img.shields.io/badge/MODULES-17-blue?style=for-the-badge)
-![Flashcards](https://img.shields.io/badge/FLASHCARDS-500+-brightgreen?style=for-the-badge)
-![Labs](https://img.shields.io/badge/LABS-15-orange?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/mohsinkhadim59/Networking-Basics-By-Cisco?style=for-the-badge&label=UPDATED&color=red)
-![License](https://img.shields.io/github/license/mohsinkhadim59/Networking-Basics-By-Cisco?style=for-the-badge&label=LICENSE&color=yellow)
-![Views](https://komarev.com/ghpvc/?username=mohsinkhadim59&repo=Networking-Basics-By-Cisco&style=for-the-badge&label=VIEWS&color=blueviolet)
+![Status](https://img.shields.io/badge/Status-Complete-success?style=flat-square&labelColor=555)
+![Modules](https://img.shields.io/badge/Modules-17-blue?style=flat-square&labelColor=555)
+![Flashcards](https://img.shields.io/badge/Flashcards-500+-brightgreen?style=flat-square&labelColor=555)
+![Labs](https://img.shields.io/badge/Labs-15-orange?style=flat-square&labelColor=555)
+![Last Commit](https://img.shields.io/github/last-commit/mohsinkhadim59/Networking-Basics-By-Cisco?style=flat-square&label=Updated&labelColor=555&color=red)
+![License](https://img.shields.io/github/license/mohsinkhadim59/Networking-Basics-By-Cisco?style=flat-square&label=License&labelColor=555&color=yellow)
+![Views](https://komarev.com/ghpvc/?username=mohsinkhadim59&repo=Networking-Basics-By-Cisco&style=flat-square&label=Views&color=blueviolet)
 
 A comprehensive Obsidian vault containing structured notes, practical labs, and reference materials for Cisco's Networking Basics course. This repository provides an organized, hands-on approach to mastering fundamental networking concepts essential for IT professionals, cybersecurity enthusiasts, and anyone building a career in technology.
 
